@@ -4,6 +4,7 @@ Pure standard-library C++ image toolbox for basic I/O and resampling.
 Supports **BMP** (8-bit indexed & 24-bit BI_RGB) and **RAW (512×512, 8-bit gray)** by default.
 Implements **negative**, **log**, **gamma** (via C-style LUTs), and **resize** (**nearest** / **bilinear**).
 Output format is chosen by the **output filename extension** (e.g., `.bmp`,`.pgm`).
+
 ---
 
 ## Features
