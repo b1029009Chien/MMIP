@@ -119,5 +119,3 @@ g++ main.cpp -o main (under the file location)
 ./main resize bilinear baboon.bmp 256 256 out_bl_256.bmp
 ./main enhance gamma 2.2 baboon.bmp out_gamma2p2.bmp
 ```
-
-Happy grading!
