@@ -491,9 +491,20 @@ static bool write_by_extension(const std::string& path, const Image& img) {
 static void usage() {
     cerr <<
     "Usage:\n"
-    "  Read:       dip read <in.(bmp|raw|jpg|jpeg|png)> <out.(pgm|ppm|bmp)>\n"
-    "  Enhance:    dip enhance <neg|log|gamma> [gamma] <in.(bmp|raw)> <out.(pgm|ppm|bmp)>\n"
-    "  Resize:     dip resize <nearest|bilinear> <in.(bmp|raw)> <newW> <newH> <out.(pgm|ppm|bmp)>\n";
+    "  Read:       main read <in.(bmp|raw|jpg|jpeg|png)> <out.(pgm|ppm|bmp)>\n"
+    "  Enhance:    main enhance <neg|log|gamma> [gamma] <in.(bmp|raw)> <out.(pgm|ppm|bmp)>\n"
+    "  Resize:     main resize <nearest|bilinear> <in.(bmp|raw)> <newW> <newH> <out.(pgm|ppm|bmp)>\n";
+}
+
+// parse_int_strict(s, out): returns true if s is a valid integer (no trailing junk), stores result in out
+static bool parse_int_strict(const std::string& s, int& out) {
+    char* end = nullptr;
+    long val = std::strtol(s.c_str(), &end, 10);
+    if (!s.empty() && end == s.c_str() + s.size()) {
+        out = static_cast<int>(val);
+        return true;
+    }
+    return false;
 }
 
 int main(int argc, char** argv) {
@@ -546,13 +557,36 @@ int main(int argc, char** argv) {
 
     if (cmd == "resize") {
         if (argc != 7) { usage(); return 1; }
-        const string mode   = argv[2];
-        const string inpath = argv[3];
-        const int newW = stoi(argv[4]);
-        const int newH = stoi(argv[5]);
-        const string outpath = argv[6];
+        const std::string mode = argv[2];
 
-        Image im = load_by_extension(inpath);      // <— now handles .bmp and .raw (512×512)
+        // Accept both:
+        //  A) resize <mode> <in> <W> <H> <out>
+        //  B) resize <mode> <W> <H> <in> <out>
+        std::string inpath, outpath;
+        int newW = 0, newH = 0;
+
+        int tmpW = 0, tmpH = 0;
+        bool aW = parse_int_strict(argv[3], tmpW);
+        bool aH = parse_int_strict(argv[4], tmpH);
+
+        if (aW && aH) {
+            // Form B
+            newW   = tmpW;
+            newH   = tmpH;
+            inpath = argv[5];
+            outpath= argv[6];
+        } else {
+            // Form A
+            inpath = argv[3];
+            if (!parse_int_strict(argv[4], newW) || !parse_int_strict(argv[5], newH)) {
+                std::cerr << "Width/Height must be integers.\n"; return 1;
+            }
+            outpath= argv[6];
+        }
+
+        if (newW <= 0 || newH <= 0) { std::cerr << "Width/Height must be > 0.\n"; return 1; }
+
+        Image im = load_by_extension(inpath);
         if (im.empty()) return 1;
 
         Image out;
@@ -565,6 +599,7 @@ int main(int argc, char** argv) {
         std::cout << "Saved: " << outpath << "\n";
         return 0;
     }
+
 
     usage();
     return 1;
