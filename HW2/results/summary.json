@@ -1,0 +1,8264 @@
+[
+  {
+    "bitdepth": 16,
+    "rmse": 2.2373,
+    "psnr": 89.33,
+    "compressed_size": 67103,
+    "bpp": 1.7518,
+    "compression_ratio": 9.13,
+    "name": "I0_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.2758,
+    "psnr": 83.71,
+    "compressed_size": 27452,
+    "bpp": 0.7167,
+    "compression_ratio": 22.33,
+    "name": "I0_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6731,
+    "psnr": 79.84,
+    "compressed_size": 16128,
+    "bpp": 0.421,
+    "compression_ratio": 38.0,
+    "name": "I0_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5051,
+    "psnr": 37.03,
+    "compressed_size": 51179,
+    "bpp": 1.5619,
+    "compression_ratio": 10.24,
+    "name": "I100_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5097,
+    "psnr": 37.03,
+    "compressed_size": 28906,
+    "bpp": 0.8821,
+    "compression_ratio": 18.14,
+    "name": "I100_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5196,
+    "psnr": 37.03,
+    "compressed_size": 21677,
+    "bpp": 0.6615,
+    "compression_ratio": 24.19,
+    "name": "I100_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.505,
+    "psnr": 37.03,
+    "compressed_size": 46418,
+    "bpp": 1.4166,
+    "compression_ratio": 11.29,
+    "name": "I101_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.509,
+    "psnr": 37.03,
+    "compressed_size": 27173,
+    "bpp": 0.8293,
+    "compression_ratio": 19.29,
+    "name": "I101_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.518,
+    "psnr": 37.03,
+    "compressed_size": 20829,
+    "bpp": 0.6357,
+    "compression_ratio": 25.17,
+    "name": "I101_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.505,
+    "psnr": 37.03,
+    "compressed_size": 45148,
+    "bpp": 1.3778,
+    "compression_ratio": 11.61,
+    "name": "I102_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5088,
+    "psnr": 37.03,
+    "compressed_size": 26580,
+    "bpp": 0.8112,
+    "compression_ratio": 19.72,
+    "name": "I102_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5176,
+    "psnr": 37.03,
+    "compressed_size": 20494,
+    "bpp": 0.6254,
+    "compression_ratio": 25.58,
+    "name": "I102_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.5446,
+    "psnr": 88.22,
+    "compressed_size": 180611,
+    "bpp": 5.5118,
+    "compression_ratio": 2.9,
+    "name": "I103_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7132,
+    "psnr": 79.79,
+    "compressed_size": 107219,
+    "bpp": 3.2721,
+    "compression_ratio": 4.89,
+    "name": "I103_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 12.1133,
+    "psnr": 74.66,
+    "compressed_size": 76005,
+    "bpp": 2.3195,
+    "compression_ratio": 6.9,
+    "name": "I103_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 0.9028,
+    "psnr": 97.22,
+    "compressed_size": 8158,
+    "bpp": 0.249,
+    "compression_ratio": 64.27,
+    "name": "I104_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.598,
+    "psnr": 92.26,
+    "compressed_size": 1752,
+    "bpp": 0.0535,
+    "compression_ratio": 299.25,
+    "name": "I104_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.1033,
+    "psnr": 89.87,
+    "compressed_size": 720,
+    "bpp": 0.022,
+    "compression_ratio": 728.18,
+    "name": "I104_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 0.9443,
+    "psnr": 96.83,
+    "compressed_size": 9276,
+    "bpp": 0.2831,
+    "compression_ratio": 56.52,
+    "name": "I105_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6985,
+    "psnr": 91.73,
+    "compressed_size": 2226,
+    "bpp": 0.0679,
+    "compression_ratio": 235.53,
+    "name": "I105_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.2607,
+    "psnr": 89.24,
+    "compressed_size": 970,
+    "bpp": 0.0296,
+    "compression_ratio": 540.5,
+    "name": "I105_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 0.9816,
+    "psnr": 96.49,
+    "compressed_size": 10301,
+    "bpp": 0.3144,
+    "compression_ratio": 50.9,
+    "name": "I106_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7805,
+    "psnr": 91.32,
+    "compressed_size": 2523,
+    "bpp": 0.077,
+    "compression_ratio": 207.8,
+    "name": "I106_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.3668,
+    "psnr": 88.85,
+    "compressed_size": 1155,
+    "bpp": 0.0352,
+    "compression_ratio": 453.93,
+    "name": "I106_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.0165,
+    "psnr": 96.19,
+    "compressed_size": 11225,
+    "bpp": 0.3426,
+    "compression_ratio": 46.71,
+    "name": "I107_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.8645,
+    "psnr": 90.92,
+    "compressed_size": 2874,
+    "bpp": 0.0877,
+    "compression_ratio": 182.42,
+    "name": "I107_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.4935,
+    "psnr": 88.39,
+    "compressed_size": 1412,
+    "bpp": 0.0431,
+    "compression_ratio": 371.31,
+    "name": "I107_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.0483,
+    "psnr": 95.92,
+    "compressed_size": 12169,
+    "bpp": 0.3714,
+    "compression_ratio": 43.08,
+    "name": "I108_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.9379,
+    "psnr": 90.58,
+    "compressed_size": 3312,
+    "bpp": 0.1011,
+    "compression_ratio": 158.3,
+    "name": "I108_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.6525,
+    "psnr": 87.86,
+    "compressed_size": 1666,
+    "bpp": 0.0508,
+    "compression_ratio": 314.7,
+    "name": "I108_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.0799,
+    "psnr": 95.66,
+    "compressed_size": 12906,
+    "bpp": 0.3939,
+    "compression_ratio": 40.62,
+    "name": "I109_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.9937,
+    "psnr": 90.34,
+    "compressed_size": 3613,
+    "bpp": 0.1103,
+    "compression_ratio": 145.11,
+    "name": "I109_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7263,
+    "psnr": 87.62,
+    "compressed_size": 1807,
+    "bpp": 0.0551,
+    "compression_ratio": 290.14,
+    "name": "I109_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 100946,
+    "bpp": 3.0806,
+    "compression_ratio": 5.19,
+    "name": "I10_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5165,
+    "psnr": 37.03,
+    "compressed_size": 60518,
+    "bpp": 1.8469,
+    "compression_ratio": 8.66,
+    "name": "I10_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5405,
+    "psnr": 37.03,
+    "compressed_size": 43171,
+    "bpp": 1.3175,
+    "compression_ratio": 12.14,
+    "name": "I10_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.1069,
+    "psnr": 95.45,
+    "compressed_size": 13816,
+    "bpp": 0.4216,
+    "compression_ratio": 37.95,
+    "name": "I110_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.0549,
+    "psnr": 90.07,
+    "compressed_size": 3975,
+    "bpp": 0.1213,
+    "compression_ratio": 131.9,
+    "name": "I110_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8587,
+    "psnr": 87.21,
+    "compressed_size": 2043,
+    "bpp": 0.0623,
+    "compression_ratio": 256.63,
+    "name": "I110_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.1381,
+    "psnr": 95.21,
+    "compressed_size": 15095,
+    "bpp": 0.4607,
+    "compression_ratio": 34.73,
+    "name": "I111_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.1285,
+    "psnr": 89.77,
+    "compressed_size": 4459,
+    "bpp": 0.1361,
+    "compression_ratio": 117.58,
+    "name": "I111_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.9864,
+    "psnr": 86.83,
+    "compressed_size": 2388,
+    "bpp": 0.0729,
+    "compression_ratio": 219.55,
+    "name": "I111_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.1627,
+    "psnr": 95.02,
+    "compressed_size": 15909,
+    "bpp": 0.4855,
+    "compression_ratio": 32.96,
+    "name": "I112_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.1855,
+    "psnr": 89.54,
+    "compressed_size": 4765,
+    "bpp": 0.1454,
+    "compression_ratio": 110.03,
+    "name": "I112_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.0975,
+    "psnr": 86.51,
+    "compressed_size": 2610,
+    "bpp": 0.0797,
+    "compression_ratio": 200.88,
+    "name": "I112_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.186,
+    "psnr": 94.85,
+    "compressed_size": 16787,
+    "bpp": 0.5123,
+    "compression_ratio": 31.23,
+    "name": "I113_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.253,
+    "psnr": 89.27,
+    "compressed_size": 5368,
+    "bpp": 0.1638,
+    "compression_ratio": 97.67,
+    "name": "I113_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.204,
+    "psnr": 86.22,
+    "compressed_size": 3023,
+    "bpp": 0.0923,
+    "compression_ratio": 173.43,
+    "name": "I113_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2163,
+    "psnr": 94.63,
+    "compressed_size": 18749,
+    "bpp": 0.5722,
+    "compression_ratio": 27.96,
+    "name": "I114_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.3296,
+    "psnr": 88.98,
+    "compressed_size": 6416,
+    "bpp": 0.1958,
+    "compression_ratio": 81.72,
+    "name": "I114_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3489,
+    "psnr": 85.83,
+    "compressed_size": 3572,
+    "bpp": 0.109,
+    "compression_ratio": 146.78,
+    "name": "I114_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2416,
+    "psnr": 94.45,
+    "compressed_size": 20262,
+    "bpp": 0.6183,
+    "compression_ratio": 25.88,
+    "name": "I115_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.4252,
+    "psnr": 88.63,
+    "compressed_size": 7200,
+    "bpp": 0.2197,
+    "compression_ratio": 72.82,
+    "name": "I115_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5434,
+    "psnr": 85.34,
+    "compressed_size": 4236,
+    "bpp": 0.1293,
+    "compression_ratio": 123.77,
+    "name": "I115_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2661,
+    "psnr": 94.28,
+    "compressed_size": 21195,
+    "bpp": 0.6468,
+    "compression_ratio": 24.74,
+    "name": "I116_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.4766,
+    "psnr": 88.45,
+    "compressed_size": 7731,
+    "bpp": 0.2359,
+    "compression_ratio": 67.82,
+    "name": "I116_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6413,
+    "psnr": 85.1,
+    "compressed_size": 4518,
+    "bpp": 0.1379,
+    "compression_ratio": 116.04,
+    "name": "I116_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2864,
+    "psnr": 94.14,
+    "compressed_size": 22979,
+    "bpp": 0.7013,
+    "compression_ratio": 22.82,
+    "name": "I117_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.5403,
+    "psnr": 88.23,
+    "compressed_size": 8859,
+    "bpp": 0.2704,
+    "compression_ratio": 59.18,
+    "name": "I117_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8327,
+    "psnr": 84.66,
+    "compressed_size": 5471,
+    "bpp": 0.167,
+    "compression_ratio": 95.83,
+    "name": "I117_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3228,
+    "psnr": 93.9,
+    "compressed_size": 26066,
+    "bpp": 0.7955,
+    "compression_ratio": 20.11,
+    "name": "I118_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7016,
+    "psnr": 87.7,
+    "compressed_size": 11048,
+    "bpp": 0.3372,
+    "compression_ratio": 47.46,
+    "name": "I118_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1223,
+    "psnr": 84.03,
+    "compressed_size": 6773,
+    "bpp": 0.2067,
+    "compression_ratio": 77.41,
+    "name": "I118_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3535,
+    "psnr": 93.7,
+    "compressed_size": 29421,
+    "bpp": 0.8979,
+    "compression_ratio": 17.82,
+    "name": "I119_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8422,
+    "psnr": 87.26,
+    "compressed_size": 13321,
+    "bpp": 0.4065,
+    "compression_ratio": 39.36,
+    "name": "I119_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.4491,
+    "psnr": 83.36,
+    "compressed_size": 8615,
+    "bpp": 0.2629,
+    "compression_ratio": 60.86,
+    "name": "I119_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 96911,
+    "bpp": 2.9575,
+    "compression_ratio": 5.41,
+    "name": "I11_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5161,
+    "psnr": 37.03,
+    "compressed_size": 57322,
+    "bpp": 1.7493,
+    "compression_ratio": 9.15,
+    "name": "I11_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5386,
+    "psnr": 37.03,
+    "compressed_size": 40647,
+    "bpp": 1.2404,
+    "compression_ratio": 12.9,
+    "name": "I11_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3851,
+    "psnr": 93.5,
+    "compressed_size": 33013,
+    "bpp": 1.0075,
+    "compression_ratio": 15.88,
+    "name": "I120_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.9694,
+    "psnr": 86.88,
+    "compressed_size": 15811,
+    "bpp": 0.4825,
+    "compression_ratio": 33.16,
+    "name": "I120_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.7265,
+    "psnr": 82.84,
+    "compressed_size": 10477,
+    "bpp": 0.3197,
+    "compression_ratio": 50.04,
+    "name": "I120_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4119,
+    "psnr": 93.33,
+    "compressed_size": 36022,
+    "bpp": 1.0993,
+    "compression_ratio": 14.55,
+    "name": "I121_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.0833,
+    "psnr": 86.55,
+    "compressed_size": 18081,
+    "bpp": 0.5518,
+    "compression_ratio": 29.0,
+    "name": "I121_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.0151,
+    "psnr": 82.32,
+    "compressed_size": 12275,
+    "bpp": 0.3746,
+    "compression_ratio": 42.71,
+    "name": "I121_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4389,
+    "psnr": 93.17,
+    "compressed_size": 38301,
+    "bpp": 1.1689,
+    "compression_ratio": 13.69,
+    "name": "I122_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.1471,
+    "psnr": 86.37,
+    "compressed_size": 19541,
+    "bpp": 0.5963,
+    "compression_ratio": 26.83,
+    "name": "I122_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.1784,
+    "psnr": 82.05,
+    "compressed_size": 13339,
+    "bpp": 0.4071,
+    "compression_ratio": 39.3,
+    "name": "I122_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4637,
+    "psnr": 93.02,
+    "compressed_size": 40768,
+    "bpp": 1.2441,
+    "compression_ratio": 12.86,
+    "name": "I123_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.2562,
+    "psnr": 86.08,
+    "compressed_size": 21298,
+    "bpp": 0.65,
+    "compression_ratio": 24.62,
+    "name": "I123_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.3871,
+    "psnr": 81.7,
+    "compressed_size": 14712,
+    "bpp": 0.449,
+    "compression_ratio": 35.64,
+    "name": "I123_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4752,
+    "psnr": 92.95,
+    "compressed_size": 42946,
+    "bpp": 1.3106,
+    "compression_ratio": 12.21,
+    "name": "I124_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3054,
+    "psnr": 85.94,
+    "compressed_size": 22891,
+    "bpp": 0.6986,
+    "compression_ratio": 22.9,
+    "name": "I124_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.5422,
+    "psnr": 81.46,
+    "compressed_size": 15833,
+    "bpp": 0.4832,
+    "compression_ratio": 33.11,
+    "name": "I124_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.492,
+    "psnr": 92.85,
+    "compressed_size": 44229,
+    "bpp": 1.3498,
+    "compression_ratio": 11.85,
+    "name": "I125_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3646,
+    "psnr": 85.79,
+    "compressed_size": 23722,
+    "bpp": 0.7239,
+    "compression_ratio": 22.1,
+    "name": "I125_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6117,
+    "psnr": 81.35,
+    "compressed_size": 16344,
+    "bpp": 0.4988,
+    "compression_ratio": 32.08,
+    "name": "I125_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5145,
+    "psnr": 92.72,
+    "compressed_size": 45131,
+    "bpp": 1.3773,
+    "compression_ratio": 11.62,
+    "name": "I126_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4007,
+    "psnr": 85.7,
+    "compressed_size": 24429,
+    "bpp": 0.7455,
+    "compression_ratio": 21.46,
+    "name": "I126_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.7072,
+    "psnr": 81.2,
+    "compressed_size": 16710,
+    "bpp": 0.5099,
+    "compression_ratio": 31.38,
+    "name": "I126_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5302,
+    "psnr": 92.63,
+    "compressed_size": 46834,
+    "bpp": 1.4293,
+    "compression_ratio": 11.19,
+    "name": "I127_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4586,
+    "psnr": 85.55,
+    "compressed_size": 25321,
+    "bpp": 0.7727,
+    "compression_ratio": 20.71,
+    "name": "I127_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8003,
+    "psnr": 81.06,
+    "compressed_size": 17477,
+    "bpp": 0.5334,
+    "compression_ratio": 30.0,
+    "name": "I127_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5344,
+    "psnr": 92.61,
+    "compressed_size": 48115,
+    "bpp": 1.4684,
+    "compression_ratio": 10.9,
+    "name": "I128_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4975,
+    "psnr": 85.45,
+    "compressed_size": 26223,
+    "bpp": 0.8003,
+    "compression_ratio": 19.99,
+    "name": "I128_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8695,
+    "psnr": 80.96,
+    "compressed_size": 18198,
+    "bpp": 0.5554,
+    "compression_ratio": 28.81,
+    "name": "I128_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5551,
+    "psnr": 92.49,
+    "compressed_size": 50075,
+    "bpp": 1.5282,
+    "compression_ratio": 10.47,
+    "name": "I129_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5717,
+    "psnr": 85.27,
+    "compressed_size": 27728,
+    "bpp": 0.8462,
+    "compression_ratio": 18.91,
+    "name": "I129_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0105,
+    "psnr": 80.75,
+    "compressed_size": 19074,
+    "bpp": 0.5821,
+    "compression_ratio": 27.49,
+    "name": "I129_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91881,
+    "bpp": 2.804,
+    "compression_ratio": 5.71,
+    "name": "I12_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5156,
+    "psnr": 37.03,
+    "compressed_size": 53619,
+    "bpp": 1.6363,
+    "compression_ratio": 9.78,
+    "name": "I12_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5362,
+    "psnr": 37.03,
+    "compressed_size": 37942,
+    "bpp": 1.1579,
+    "compression_ratio": 13.82,
+    "name": "I12_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5717,
+    "psnr": 92.4,
+    "compressed_size": 51406,
+    "bpp": 1.5688,
+    "compression_ratio": 10.2,
+    "name": "I130_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.62,
+    "psnr": 85.16,
+    "compressed_size": 28691,
+    "bpp": 0.8756,
+    "compression_ratio": 18.27,
+    "name": "I130_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1376,
+    "psnr": 80.57,
+    "compressed_size": 19904,
+    "bpp": 0.6074,
+    "compression_ratio": 26.34,
+    "name": "I130_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5871,
+    "psnr": 92.32,
+    "compressed_size": 53035,
+    "bpp": 1.6185,
+    "compression_ratio": 9.89,
+    "name": "I131_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6586,
+    "psnr": 85.06,
+    "compressed_size": 29622,
+    "bpp": 0.904,
+    "compression_ratio": 17.7,
+    "name": "I131_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1954,
+    "psnr": 80.49,
+    "compressed_size": 20609,
+    "bpp": 0.6289,
+    "compression_ratio": 25.44,
+    "name": "I131_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.602,
+    "psnr": 92.24,
+    "compressed_size": 54177,
+    "bpp": 1.6534,
+    "compression_ratio": 9.68,
+    "name": "I132_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6937,
+    "psnr": 84.98,
+    "compressed_size": 30521,
+    "bpp": 0.9314,
+    "compression_ratio": 17.18,
+    "name": "I132_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2452,
+    "psnr": 80.42,
+    "compressed_size": 21169,
+    "bpp": 0.646,
+    "compression_ratio": 24.77,
+    "name": "I132_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6019,
+    "psnr": 92.24,
+    "compressed_size": 54681,
+    "bpp": 1.6687,
+    "compression_ratio": 9.59,
+    "name": "I133_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7124,
+    "psnr": 84.94,
+    "compressed_size": 30836,
+    "bpp": 0.941,
+    "compression_ratio": 17.0,
+    "name": "I133_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3053,
+    "psnr": 80.34,
+    "compressed_size": 21343,
+    "bpp": 0.6513,
+    "compression_ratio": 24.56,
+    "name": "I133_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6073,
+    "psnr": 92.21,
+    "compressed_size": 54906,
+    "bpp": 1.6756,
+    "compression_ratio": 9.55,
+    "name": "I134_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7258,
+    "psnr": 84.91,
+    "compressed_size": 30817,
+    "bpp": 0.9405,
+    "compression_ratio": 17.01,
+    "name": "I134_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3342,
+    "psnr": 80.3,
+    "compressed_size": 21343,
+    "bpp": 0.6513,
+    "compression_ratio": 24.56,
+    "name": "I134_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6159,
+    "psnr": 92.16,
+    "compressed_size": 54891,
+    "bpp": 1.6751,
+    "compression_ratio": 9.55,
+    "name": "I135_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7207,
+    "psnr": 84.92,
+    "compressed_size": 30664,
+    "bpp": 0.9358,
+    "compression_ratio": 17.1,
+    "name": "I135_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3381,
+    "psnr": 80.29,
+    "compressed_size": 21173,
+    "bpp": 0.6461,
+    "compression_ratio": 24.76,
+    "name": "I135_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6189,
+    "psnr": 92.15,
+    "compressed_size": 54012,
+    "bpp": 1.6483,
+    "compression_ratio": 9.71,
+    "name": "I136_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7063,
+    "psnr": 84.95,
+    "compressed_size": 30084,
+    "bpp": 0.9181,
+    "compression_ratio": 17.43,
+    "name": "I136_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2543,
+    "psnr": 80.41,
+    "compressed_size": 20674,
+    "bpp": 0.6309,
+    "compression_ratio": 25.36,
+    "name": "I136_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6195,
+    "psnr": 92.14,
+    "compressed_size": 54404,
+    "bpp": 1.6603,
+    "compression_ratio": 9.64,
+    "name": "I137_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.719,
+    "psnr": 84.92,
+    "compressed_size": 30027,
+    "bpp": 0.9164,
+    "compression_ratio": 17.46,
+    "name": "I137_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2802,
+    "psnr": 80.37,
+    "compressed_size": 20684,
+    "bpp": 0.6312,
+    "compression_ratio": 25.35,
+    "name": "I137_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6205,
+    "psnr": 92.14,
+    "compressed_size": 54357,
+    "bpp": 1.6588,
+    "compression_ratio": 9.65,
+    "name": "I138_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6971,
+    "psnr": 84.97,
+    "compressed_size": 29979,
+    "bpp": 0.9149,
+    "compression_ratio": 17.49,
+    "name": "I138_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2649,
+    "psnr": 80.39,
+    "compressed_size": 20636,
+    "bpp": 0.6298,
+    "compression_ratio": 25.41,
+    "name": "I138_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6325,
+    "psnr": 92.07,
+    "compressed_size": 54681,
+    "bpp": 1.6687,
+    "compression_ratio": 9.59,
+    "name": "I139_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7386,
+    "psnr": 84.88,
+    "compressed_size": 29956,
+    "bpp": 0.9142,
+    "compression_ratio": 17.5,
+    "name": "I139_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2543,
+    "psnr": 80.41,
+    "compressed_size": 20453,
+    "bpp": 0.6242,
+    "compression_ratio": 25.63,
+    "name": "I139_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 89897,
+    "bpp": 2.7434,
+    "compression_ratio": 5.83,
+    "name": "I13_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5153,
+    "psnr": 37.03,
+    "compressed_size": 51809,
+    "bpp": 1.5811,
+    "compression_ratio": 10.12,
+    "name": "I13_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5354,
+    "psnr": 37.03,
+    "compressed_size": 36721,
+    "bpp": 1.1206,
+    "compression_ratio": 14.28,
+    "name": "I13_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6352,
+    "psnr": 92.06,
+    "compressed_size": 54583,
+    "bpp": 1.6657,
+    "compression_ratio": 9.61,
+    "name": "I140_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7287,
+    "psnr": 84.9,
+    "compressed_size": 29911,
+    "bpp": 0.9128,
+    "compression_ratio": 17.53,
+    "name": "I140_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2556,
+    "psnr": 80.4,
+    "compressed_size": 20392,
+    "bpp": 0.6223,
+    "compression_ratio": 25.71,
+    "name": "I140_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6411,
+    "psnr": 92.03,
+    "compressed_size": 54930,
+    "bpp": 1.6763,
+    "compression_ratio": 9.54,
+    "name": "I141_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7702,
+    "psnr": 84.8,
+    "compressed_size": 30289,
+    "bpp": 0.9243,
+    "compression_ratio": 17.31,
+    "name": "I141_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3014,
+    "psnr": 80.34,
+    "compressed_size": 20472,
+    "bpp": 0.6248,
+    "compression_ratio": 25.61,
+    "name": "I141_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6514,
+    "psnr": 91.97,
+    "compressed_size": 56138,
+    "bpp": 1.7132,
+    "compression_ratio": 9.34,
+    "name": "I142_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7782,
+    "psnr": 84.78,
+    "compressed_size": 30819,
+    "bpp": 0.9405,
+    "compression_ratio": 17.01,
+    "name": "I142_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.352,
+    "psnr": 80.27,
+    "compressed_size": 20983,
+    "bpp": 0.6404,
+    "compression_ratio": 24.99,
+    "name": "I142_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6551,
+    "psnr": 91.95,
+    "compressed_size": 56504,
+    "bpp": 1.7244,
+    "compression_ratio": 9.28,
+    "name": "I143_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8033,
+    "psnr": 84.73,
+    "compressed_size": 30993,
+    "bpp": 0.9458,
+    "compression_ratio": 16.92,
+    "name": "I143_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3713,
+    "psnr": 80.24,
+    "compressed_size": 21023,
+    "bpp": 0.6416,
+    "compression_ratio": 24.94,
+    "name": "I143_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6618,
+    "psnr": 91.92,
+    "compressed_size": 57550,
+    "bpp": 1.7563,
+    "compression_ratio": 9.11,
+    "name": "I144_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8351,
+    "psnr": 84.65,
+    "compressed_size": 31769,
+    "bpp": 0.9695,
+    "compression_ratio": 16.5,
+    "name": "I144_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.47,
+    "psnr": 80.11,
+    "compressed_size": 21635,
+    "bpp": 0.6602,
+    "compression_ratio": 24.23,
+    "name": "I144_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6785,
+    "psnr": 91.83,
+    "compressed_size": 58578,
+    "bpp": 1.7877,
+    "compression_ratio": 8.95,
+    "name": "I145_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8722,
+    "psnr": 84.57,
+    "compressed_size": 32630,
+    "bpp": 0.9958,
+    "compression_ratio": 16.07,
+    "name": "I145_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.506,
+    "psnr": 80.06,
+    "compressed_size": 21909,
+    "bpp": 0.6686,
+    "compression_ratio": 23.93,
+    "name": "I145_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6925,
+    "psnr": 91.76,
+    "compressed_size": 60396,
+    "bpp": 1.8431,
+    "compression_ratio": 8.68,
+    "name": "I146_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9256,
+    "psnr": 84.45,
+    "compressed_size": 33716,
+    "bpp": 1.0289,
+    "compression_ratio": 15.55,
+    "name": "I146_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6105,
+    "psnr": 79.92,
+    "compressed_size": 22694,
+    "bpp": 0.6926,
+    "compression_ratio": 23.1,
+    "name": "I146_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6971,
+    "psnr": 91.74,
+    "compressed_size": 60720,
+    "bpp": 1.853,
+    "compression_ratio": 8.63,
+    "name": "I147_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9311,
+    "psnr": 84.44,
+    "compressed_size": 33898,
+    "bpp": 1.0345,
+    "compression_ratio": 15.47,
+    "name": "I147_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6744,
+    "psnr": 79.84,
+    "compressed_size": 23057,
+    "bpp": 0.7036,
+    "compression_ratio": 22.74,
+    "name": "I147_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6949,
+    "psnr": 91.75,
+    "compressed_size": 60329,
+    "bpp": 1.8411,
+    "compression_ratio": 8.69,
+    "name": "I148_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9362,
+    "psnr": 84.43,
+    "compressed_size": 33397,
+    "bpp": 1.0192,
+    "compression_ratio": 15.7,
+    "name": "I148_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5935,
+    "psnr": 79.95,
+    "compressed_size": 22645,
+    "bpp": 0.6911,
+    "compression_ratio": 23.15,
+    "name": "I148_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.691,
+    "psnr": 91.77,
+    "compressed_size": 59855,
+    "bpp": 1.8266,
+    "compression_ratio": 8.76,
+    "name": "I149_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9059,
+    "psnr": 84.49,
+    "compressed_size": 33305,
+    "bpp": 1.0164,
+    "compression_ratio": 15.74,
+    "name": "I149_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6008,
+    "psnr": 79.94,
+    "compressed_size": 22438,
+    "bpp": 0.6848,
+    "compression_ratio": 23.37,
+    "name": "I149_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91815,
+    "bpp": 2.802,
+    "compression_ratio": 5.71,
+    "name": "I14_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5155,
+    "psnr": 37.03,
+    "compressed_size": 52731,
+    "bpp": 1.6092,
+    "compression_ratio": 9.94,
+    "name": "I14_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5362,
+    "psnr": 37.03,
+    "compressed_size": 37310,
+    "bpp": 1.1386,
+    "compression_ratio": 14.05,
+    "name": "I14_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6931,
+    "psnr": 91.76,
+    "compressed_size": 59872,
+    "bpp": 1.8271,
+    "compression_ratio": 8.76,
+    "name": "I150_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9258,
+    "psnr": 84.45,
+    "compressed_size": 33275,
+    "bpp": 1.0155,
+    "compression_ratio": 15.76,
+    "name": "I150_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.583,
+    "psnr": 79.96,
+    "compressed_size": 22369,
+    "bpp": 0.6826,
+    "compression_ratio": 23.44,
+    "name": "I150_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6922,
+    "psnr": 91.76,
+    "compressed_size": 60058,
+    "bpp": 1.8328,
+    "compression_ratio": 8.73,
+    "name": "I151_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9203,
+    "psnr": 84.46,
+    "compressed_size": 33303,
+    "bpp": 1.0163,
+    "compression_ratio": 15.74,
+    "name": "I151_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.576,
+    "psnr": 79.97,
+    "compressed_size": 22454,
+    "bpp": 0.6852,
+    "compression_ratio": 23.35,
+    "name": "I151_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7011,
+    "psnr": 91.72,
+    "compressed_size": 60813,
+    "bpp": 1.8559,
+    "compression_ratio": 8.62,
+    "name": "I152_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9615,
+    "psnr": 84.37,
+    "compressed_size": 33914,
+    "bpp": 1.035,
+    "compression_ratio": 15.46,
+    "name": "I152_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6671,
+    "psnr": 79.85,
+    "compressed_size": 22813,
+    "bpp": 0.6962,
+    "compression_ratio": 22.98,
+    "name": "I152_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7054,
+    "psnr": 91.69,
+    "compressed_size": 61104,
+    "bpp": 1.8647,
+    "compression_ratio": 8.58,
+    "name": "I153_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9622,
+    "psnr": 84.37,
+    "compressed_size": 33765,
+    "bpp": 1.0304,
+    "compression_ratio": 15.53,
+    "name": "I153_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6555,
+    "psnr": 79.87,
+    "compressed_size": 22813,
+    "bpp": 0.6962,
+    "compression_ratio": 22.98,
+    "name": "I153_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7094,
+    "psnr": 91.67,
+    "compressed_size": 61310,
+    "bpp": 1.871,
+    "compression_ratio": 8.55,
+    "name": "I154_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.971,
+    "psnr": 84.35,
+    "compressed_size": 33937,
+    "bpp": 1.0357,
+    "compression_ratio": 15.45,
+    "name": "I154_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6783,
+    "psnr": 79.84,
+    "compressed_size": 22728,
+    "bpp": 0.6936,
+    "compression_ratio": 23.07,
+    "name": "I154_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.711,
+    "psnr": 91.66,
+    "compressed_size": 61266,
+    "bpp": 1.8697,
+    "compression_ratio": 8.56,
+    "name": "I155_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9691,
+    "psnr": 84.36,
+    "compressed_size": 34075,
+    "bpp": 1.0399,
+    "compression_ratio": 15.39,
+    "name": "I155_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6707,
+    "psnr": 79.85,
+    "compressed_size": 22977,
+    "bpp": 0.7012,
+    "compression_ratio": 22.82,
+    "name": "I155_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.708,
+    "psnr": 91.68,
+    "compressed_size": 60647,
+    "bpp": 1.8508,
+    "compression_ratio": 8.64,
+    "name": "I156_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9448,
+    "psnr": 84.41,
+    "compressed_size": 33660,
+    "bpp": 1.0272,
+    "compression_ratio": 15.58,
+    "name": "I156_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6603,
+    "psnr": 79.86,
+    "compressed_size": 22535,
+    "bpp": 0.6877,
+    "compression_ratio": 23.27,
+    "name": "I156_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7018,
+    "psnr": 91.71,
+    "compressed_size": 60479,
+    "bpp": 1.8457,
+    "compression_ratio": 8.67,
+    "name": "I157_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9472,
+    "psnr": 84.4,
+    "compressed_size": 33277,
+    "bpp": 1.0155,
+    "compression_ratio": 15.76,
+    "name": "I157_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6153,
+    "psnr": 79.92,
+    "compressed_size": 22257,
+    "bpp": 0.6792,
+    "compression_ratio": 23.56,
+    "name": "I157_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.698,
+    "psnr": 91.73,
+    "compressed_size": 59900,
+    "bpp": 1.828,
+    "compression_ratio": 8.75,
+    "name": "I158_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9362,
+    "psnr": 84.43,
+    "compressed_size": 33049,
+    "bpp": 1.0086,
+    "compression_ratio": 15.86,
+    "name": "I158_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5603,
+    "psnr": 79.99,
+    "compressed_size": 21981,
+    "bpp": 0.6708,
+    "compression_ratio": 23.85,
+    "name": "I158_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7023,
+    "psnr": 91.71,
+    "compressed_size": 60101,
+    "bpp": 1.8341,
+    "compression_ratio": 8.72,
+    "name": "I159_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9433,
+    "psnr": 84.41,
+    "compressed_size": 33058,
+    "bpp": 1.0089,
+    "compression_ratio": 15.86,
+    "name": "I159_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6045,
+    "psnr": 79.93,
+    "compressed_size": 22042,
+    "bpp": 0.6727,
+    "compression_ratio": 23.79,
+    "name": "I159_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91774,
+    "bpp": 2.8007,
+    "compression_ratio": 5.71,
+    "name": "I15_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5156,
+    "psnr": 37.03,
+    "compressed_size": 52801,
+    "bpp": 1.6114,
+    "compression_ratio": 9.93,
+    "name": "I15_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5362,
+    "psnr": 37.03,
+    "compressed_size": 37466,
+    "bpp": 1.1434,
+    "compression_ratio": 13.99,
+    "name": "I15_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7074,
+    "psnr": 91.68,
+    "compressed_size": 60993,
+    "bpp": 1.8614,
+    "compression_ratio": 8.6,
+    "name": "I160_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9752,
+    "psnr": 84.34,
+    "compressed_size": 33472,
+    "bpp": 1.0215,
+    "compression_ratio": 15.66,
+    "name": "I160_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6398,
+    "psnr": 79.89,
+    "compressed_size": 22390,
+    "bpp": 0.6833,
+    "compression_ratio": 23.42,
+    "name": "I160_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7131,
+    "psnr": 91.65,
+    "compressed_size": 61404,
+    "bpp": 1.8739,
+    "compression_ratio": 8.54,
+    "name": "I161_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9847,
+    "psnr": 84.32,
+    "compressed_size": 33981,
+    "bpp": 1.037,
+    "compression_ratio": 15.43,
+    "name": "I161_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6642,
+    "psnr": 79.85,
+    "compressed_size": 22681,
+    "bpp": 0.6922,
+    "compression_ratio": 23.12,
+    "name": "I161_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7108,
+    "psnr": 91.67,
+    "compressed_size": 61270,
+    "bpp": 1.8698,
+    "compression_ratio": 8.56,
+    "name": "I162_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9695,
+    "psnr": 84.35,
+    "compressed_size": 33866,
+    "bpp": 1.0335,
+    "compression_ratio": 15.48,
+    "name": "I162_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6646,
+    "psnr": 79.85,
+    "compressed_size": 22558,
+    "bpp": 0.6884,
+    "compression_ratio": 23.24,
+    "name": "I162_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7047,
+    "psnr": 91.7,
+    "compressed_size": 60827,
+    "bpp": 1.8563,
+    "compression_ratio": 8.62,
+    "name": "I163_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9569,
+    "psnr": 84.38,
+    "compressed_size": 33606,
+    "bpp": 1.0256,
+    "compression_ratio": 15.6,
+    "name": "I163_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6294,
+    "psnr": 79.9,
+    "compressed_size": 22407,
+    "bpp": 0.6838,
+    "compression_ratio": 23.4,
+    "name": "I163_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7083,
+    "psnr": 91.68,
+    "compressed_size": 61250,
+    "bpp": 1.8692,
+    "compression_ratio": 8.56,
+    "name": "I164_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9761,
+    "psnr": 84.34,
+    "compressed_size": 33938,
+    "bpp": 1.0357,
+    "compression_ratio": 15.45,
+    "name": "I164_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6525,
+    "psnr": 79.87,
+    "compressed_size": 22689,
+    "bpp": 0.6924,
+    "compression_ratio": 23.11,
+    "name": "I164_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7095,
+    "psnr": 91.67,
+    "compressed_size": 61606,
+    "bpp": 1.8801,
+    "compression_ratio": 8.51,
+    "name": "I165_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9864,
+    "psnr": 84.32,
+    "compressed_size": 34149,
+    "bpp": 1.0421,
+    "compression_ratio": 15.35,
+    "name": "I165_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6536,
+    "psnr": 79.87,
+    "compressed_size": 22788,
+    "bpp": 0.6954,
+    "compression_ratio": 23.01,
+    "name": "I165_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7242,
+    "psnr": 91.6,
+    "compressed_size": 63375,
+    "bpp": 1.9341,
+    "compression_ratio": 8.27,
+    "name": "I166_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0344,
+    "psnr": 84.21,
+    "compressed_size": 35449,
+    "bpp": 1.0818,
+    "compression_ratio": 14.79,
+    "name": "I166_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7792,
+    "psnr": 79.71,
+    "compressed_size": 23667,
+    "bpp": 0.7223,
+    "compression_ratio": 22.15,
+    "name": "I166_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7284,
+    "psnr": 91.58,
+    "compressed_size": 64206,
+    "bpp": 1.9594,
+    "compression_ratio": 8.17,
+    "name": "I167_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0472,
+    "psnr": 84.19,
+    "compressed_size": 36043,
+    "bpp": 1.0999,
+    "compression_ratio": 14.55,
+    "name": "I167_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8195,
+    "psnr": 79.65,
+    "compressed_size": 24256,
+    "bpp": 0.7402,
+    "compression_ratio": 21.61,
+    "name": "I167_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7291,
+    "psnr": 91.57,
+    "compressed_size": 64662,
+    "bpp": 1.9733,
+    "compression_ratio": 8.11,
+    "name": "I168_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0744,
+    "psnr": 84.13,
+    "compressed_size": 36413,
+    "bpp": 1.1112,
+    "compression_ratio": 14.4,
+    "name": "I168_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8305,
+    "psnr": 79.64,
+    "compressed_size": 24579,
+    "bpp": 0.7501,
+    "compression_ratio": 21.33,
+    "name": "I168_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7344,
+    "psnr": 91.55,
+    "compressed_size": 64791,
+    "bpp": 1.9773,
+    "compression_ratio": 8.09,
+    "name": "I169_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0612,
+    "psnr": 84.16,
+    "compressed_size": 36503,
+    "bpp": 1.114,
+    "compression_ratio": 14.36,
+    "name": "I169_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8846,
+    "psnr": 79.57,
+    "compressed_size": 24534,
+    "bpp": 0.7487,
+    "compression_ratio": 21.37,
+    "name": "I169_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91972,
+    "bpp": 2.8068,
+    "compression_ratio": 5.7,
+    "name": "I16_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5156,
+    "psnr": 37.03,
+    "compressed_size": 53040,
+    "bpp": 1.6187,
+    "compression_ratio": 9.88,
+    "name": "I16_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.536,
+    "psnr": 37.03,
+    "compressed_size": 37746,
+    "bpp": 1.1519,
+    "compression_ratio": 13.89,
+    "name": "I16_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7302,
+    "psnr": 91.57,
+    "compressed_size": 64889,
+    "bpp": 1.9803,
+    "compression_ratio": 8.08,
+    "name": "I170_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0718,
+    "psnr": 84.13,
+    "compressed_size": 36448,
+    "bpp": 1.1123,
+    "compression_ratio": 14.38,
+    "name": "I170_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8678,
+    "psnr": 79.59,
+    "compressed_size": 24664,
+    "bpp": 0.7527,
+    "compression_ratio": 21.26,
+    "name": "I170_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7397,
+    "psnr": 91.52,
+    "compressed_size": 65692,
+    "bpp": 2.0048,
+    "compression_ratio": 7.98,
+    "name": "I171_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0937,
+    "psnr": 84.09,
+    "compressed_size": 37163,
+    "bpp": 1.1341,
+    "compression_ratio": 14.11,
+    "name": "I171_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.9256,
+    "psnr": 79.52,
+    "compressed_size": 25234,
+    "bpp": 0.7701,
+    "compression_ratio": 20.78,
+    "name": "I171_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7351,
+    "psnr": 91.54,
+    "compressed_size": 65871,
+    "bpp": 2.0102,
+    "compression_ratio": 7.96,
+    "name": "I172_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0846,
+    "psnr": 84.11,
+    "compressed_size": 37534,
+    "bpp": 1.1454,
+    "compression_ratio": 13.97,
+    "name": "I172_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.9643,
+    "psnr": 79.47,
+    "compressed_size": 25582,
+    "bpp": 0.7807,
+    "compression_ratio": 20.49,
+    "name": "I172_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7386,
+    "psnr": 91.53,
+    "compressed_size": 65839,
+    "bpp": 2.0092,
+    "compression_ratio": 7.96,
+    "name": "I173_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1022,
+    "psnr": 84.07,
+    "compressed_size": 37555,
+    "bpp": 1.1461,
+    "compression_ratio": 13.96,
+    "name": "I173_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.9548,
+    "psnr": 79.48,
+    "compressed_size": 25575,
+    "bpp": 0.7805,
+    "compression_ratio": 20.5,
+    "name": "I173_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7222,
+    "psnr": 91.61,
+    "compressed_size": 64500,
+    "bpp": 1.9684,
+    "compression_ratio": 8.13,
+    "name": "I174_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0408,
+    "psnr": 84.2,
+    "compressed_size": 36430,
+    "bpp": 1.1118,
+    "compression_ratio": 14.39,
+    "name": "I174_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8508,
+    "psnr": 79.61,
+    "compressed_size": 24847,
+    "bpp": 0.7583,
+    "compression_ratio": 21.1,
+    "name": "I174_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.713,
+    "psnr": 91.65,
+    "compressed_size": 62567,
+    "bpp": 1.9094,
+    "compression_ratio": 8.38,
+    "name": "I175_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9974,
+    "psnr": 84.29,
+    "compressed_size": 34986,
+    "bpp": 1.0677,
+    "compression_ratio": 14.99,
+    "name": "I175_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7525,
+    "psnr": 79.74,
+    "compressed_size": 23613,
+    "bpp": 0.7206,
+    "compression_ratio": 22.2,
+    "name": "I175_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.699,
+    "psnr": 91.73,
+    "compressed_size": 60465,
+    "bpp": 1.8452,
+    "compression_ratio": 8.67,
+    "name": "I176_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.944,
+    "psnr": 84.41,
+    "compressed_size": 33289,
+    "bpp": 1.0159,
+    "compression_ratio": 15.75,
+    "name": "I176_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.569,
+    "psnr": 79.98,
+    "compressed_size": 22297,
+    "bpp": 0.6805,
+    "compression_ratio": 23.51,
+    "name": "I176_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6877,
+    "psnr": 91.78,
+    "compressed_size": 59324,
+    "bpp": 1.8104,
+    "compression_ratio": 8.84,
+    "name": "I177_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9108,
+    "psnr": 84.48,
+    "compressed_size": 32425,
+    "bpp": 0.9895,
+    "compression_ratio": 16.17,
+    "name": "I177_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5215,
+    "psnr": 80.04,
+    "compressed_size": 21467,
+    "bpp": 0.6551,
+    "compression_ratio": 24.42,
+    "name": "I177_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6818,
+    "psnr": 91.81,
+    "compressed_size": 58092,
+    "bpp": 1.7728,
+    "compression_ratio": 9.03,
+    "name": "I178_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8863,
+    "psnr": 84.54,
+    "compressed_size": 31615,
+    "bpp": 0.9648,
+    "compression_ratio": 16.58,
+    "name": "I178_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.417,
+    "psnr": 80.18,
+    "compressed_size": 20811,
+    "bpp": 0.6351,
+    "compression_ratio": 25.19,
+    "name": "I178_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6768,
+    "psnr": 91.84,
+    "compressed_size": 57729,
+    "bpp": 1.7617,
+    "compression_ratio": 9.08,
+    "name": "I179_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8648,
+    "psnr": 84.59,
+    "compressed_size": 31220,
+    "bpp": 0.9528,
+    "compression_ratio": 16.79,
+    "name": "I179_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4064,
+    "psnr": 80.2,
+    "compressed_size": 20580,
+    "bpp": 0.6281,
+    "compression_ratio": 25.48,
+    "name": "I179_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 91220,
+    "bpp": 2.7838,
+    "compression_ratio": 5.75,
+    "name": "I17_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5155,
+    "psnr": 37.03,
+    "compressed_size": 52548,
+    "bpp": 1.6036,
+    "compression_ratio": 9.98,
+    "name": "I17_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5356,
+    "psnr": 37.03,
+    "compressed_size": 37291,
+    "bpp": 1.138,
+    "compression_ratio": 14.06,
+    "name": "I17_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6782,
+    "psnr": 91.83,
+    "compressed_size": 57523,
+    "bpp": 1.7555,
+    "compression_ratio": 9.11,
+    "name": "I180_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8629,
+    "psnr": 84.59,
+    "compressed_size": 31014,
+    "bpp": 0.9465,
+    "compression_ratio": 16.9,
+    "name": "I180_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.412,
+    "psnr": 80.19,
+    "compressed_size": 20543,
+    "bpp": 0.6269,
+    "compression_ratio": 25.52,
+    "name": "I180_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6696,
+    "psnr": 91.88,
+    "compressed_size": 56703,
+    "bpp": 1.7304,
+    "compression_ratio": 9.25,
+    "name": "I181_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.838,
+    "psnr": 84.65,
+    "compressed_size": 30649,
+    "bpp": 0.9353,
+    "compression_ratio": 17.11,
+    "name": "I181_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3461,
+    "psnr": 80.28,
+    "compressed_size": 20101,
+    "bpp": 0.6134,
+    "compression_ratio": 26.08,
+    "name": "I181_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6685,
+    "psnr": 91.88,
+    "compressed_size": 56205,
+    "bpp": 1.7152,
+    "compression_ratio": 9.33,
+    "name": "I182_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8143,
+    "psnr": 84.7,
+    "compressed_size": 30309,
+    "bpp": 0.925,
+    "compression_ratio": 17.3,
+    "name": "I182_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3439,
+    "psnr": 80.28,
+    "compressed_size": 20027,
+    "bpp": 0.6112,
+    "compression_ratio": 26.18,
+    "name": "I182_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6687,
+    "psnr": 91.88,
+    "compressed_size": 56403,
+    "bpp": 1.7213,
+    "compression_ratio": 9.3,
+    "name": "I183_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8468,
+    "psnr": 84.63,
+    "compressed_size": 30508,
+    "bpp": 0.931,
+    "compression_ratio": 17.19,
+    "name": "I183_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3735,
+    "psnr": 80.24,
+    "compressed_size": 20055,
+    "bpp": 0.612,
+    "compression_ratio": 26.14,
+    "name": "I183_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6664,
+    "psnr": 91.89,
+    "compressed_size": 56779,
+    "bpp": 1.7328,
+    "compression_ratio": 9.23,
+    "name": "I184_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8423,
+    "psnr": 84.64,
+    "compressed_size": 30841,
+    "bpp": 0.9412,
+    "compression_ratio": 17.0,
+    "name": "I184_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3979,
+    "psnr": 80.21,
+    "compressed_size": 20275,
+    "bpp": 0.6187,
+    "compression_ratio": 25.86,
+    "name": "I184_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.65,
+    "psnr": 91.98,
+    "compressed_size": 55837,
+    "bpp": 1.704,
+    "compression_ratio": 9.39,
+    "name": "I185_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8206,
+    "psnr": 84.69,
+    "compressed_size": 30209,
+    "bpp": 0.9219,
+    "compression_ratio": 17.36,
+    "name": "I185_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3173,
+    "psnr": 80.32,
+    "compressed_size": 19776,
+    "bpp": 0.6035,
+    "compression_ratio": 26.51,
+    "name": "I185_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6444,
+    "psnr": 92.01,
+    "compressed_size": 54896,
+    "bpp": 1.6753,
+    "compression_ratio": 9.55,
+    "name": "I186_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7849,
+    "psnr": 84.77,
+    "compressed_size": 29638,
+    "bpp": 0.9045,
+    "compression_ratio": 17.69,
+    "name": "I186_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2593,
+    "psnr": 80.4,
+    "compressed_size": 19498,
+    "bpp": 0.595,
+    "compression_ratio": 26.89,
+    "name": "I186_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6429,
+    "psnr": 92.02,
+    "compressed_size": 54732,
+    "bpp": 1.6703,
+    "compression_ratio": 9.58,
+    "name": "I187_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7864,
+    "psnr": 84.76,
+    "compressed_size": 29610,
+    "bpp": 0.9036,
+    "compression_ratio": 17.71,
+    "name": "I187_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2741,
+    "psnr": 80.38,
+    "compressed_size": 19353,
+    "bpp": 0.5906,
+    "compression_ratio": 27.09,
+    "name": "I187_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6377,
+    "psnr": 92.04,
+    "compressed_size": 54356,
+    "bpp": 1.6588,
+    "compression_ratio": 9.65,
+    "name": "I188_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7609,
+    "psnr": 84.82,
+    "compressed_size": 29365,
+    "bpp": 0.8961,
+    "compression_ratio": 17.85,
+    "name": "I188_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2354,
+    "psnr": 80.43,
+    "compressed_size": 19405,
+    "bpp": 0.5922,
+    "compression_ratio": 27.02,
+    "name": "I188_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6277,
+    "psnr": 92.1,
+    "compressed_size": 53941,
+    "bpp": 1.6461,
+    "compression_ratio": 9.72,
+    "name": "I189_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7526,
+    "psnr": 84.84,
+    "compressed_size": 29066,
+    "bpp": 0.887,
+    "compression_ratio": 18.04,
+    "name": "I189_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1919,
+    "psnr": 80.49,
+    "compressed_size": 19091,
+    "bpp": 0.5826,
+    "compression_ratio": 27.46,
+    "name": "I189_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91152,
+    "bpp": 2.7817,
+    "compression_ratio": 5.75,
+    "name": "I18_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5154,
+    "psnr": 37.03,
+    "compressed_size": 52179,
+    "bpp": 1.5924,
+    "compression_ratio": 10.05,
+    "name": "I18_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5354,
+    "psnr": 37.03,
+    "compressed_size": 37112,
+    "bpp": 1.1326,
+    "compression_ratio": 14.13,
+    "name": "I18_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.613,
+    "psnr": 92.18,
+    "compressed_size": 53348,
+    "bpp": 1.6281,
+    "compression_ratio": 9.83,
+    "name": "I190_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7205,
+    "psnr": 84.92,
+    "compressed_size": 28863,
+    "bpp": 0.8808,
+    "compression_ratio": 18.16,
+    "name": "I190_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1612,
+    "psnr": 80.54,
+    "compressed_size": 18954,
+    "bpp": 0.5784,
+    "compression_ratio": 27.66,
+    "name": "I190_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6034,
+    "psnr": 92.23,
+    "compressed_size": 52499,
+    "bpp": 1.6021,
+    "compression_ratio": 9.99,
+    "name": "I191_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6748,
+    "psnr": 85.02,
+    "compressed_size": 28227,
+    "bpp": 0.8614,
+    "compression_ratio": 18.57,
+    "name": "I191_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1256,
+    "psnr": 80.59,
+    "compressed_size": 18615,
+    "bpp": 0.5681,
+    "compression_ratio": 28.16,
+    "name": "I191_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5969,
+    "psnr": 92.26,
+    "compressed_size": 51528,
+    "bpp": 1.5725,
+    "compression_ratio": 10.17,
+    "name": "I192_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6647,
+    "psnr": 85.05,
+    "compressed_size": 27735,
+    "bpp": 0.8464,
+    "compression_ratio": 18.9,
+    "name": "I192_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0958,
+    "psnr": 80.63,
+    "compressed_size": 18095,
+    "bpp": 0.5522,
+    "compression_ratio": 28.97,
+    "name": "I192_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5913,
+    "psnr": 92.29,
+    "compressed_size": 51213,
+    "bpp": 1.5629,
+    "compression_ratio": 10.24,
+    "name": "I193_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6388,
+    "psnr": 85.11,
+    "compressed_size": 27631,
+    "bpp": 0.8432,
+    "compression_ratio": 18.97,
+    "name": "I193_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0451,
+    "psnr": 80.7,
+    "compressed_size": 17982,
+    "bpp": 0.5488,
+    "compression_ratio": 29.16,
+    "name": "I193_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5832,
+    "psnr": 92.34,
+    "compressed_size": 50784,
+    "bpp": 1.5498,
+    "compression_ratio": 10.32,
+    "name": "I194_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6216,
+    "psnr": 85.15,
+    "compressed_size": 27368,
+    "bpp": 0.8352,
+    "compression_ratio": 19.16,
+    "name": "I194_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0196,
+    "psnr": 80.74,
+    "compressed_size": 17901,
+    "bpp": 0.5463,
+    "compression_ratio": 29.29,
+    "name": "I194_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5681,
+    "psnr": 92.42,
+    "compressed_size": 49854,
+    "bpp": 1.5214,
+    "compression_ratio": 10.52,
+    "name": "I195_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.602,
+    "psnr": 85.2,
+    "compressed_size": 26852,
+    "bpp": 0.8195,
+    "compression_ratio": 19.53,
+    "name": "I195_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.9973,
+    "psnr": 80.77,
+    "compressed_size": 17473,
+    "bpp": 0.5332,
+    "compression_ratio": 30.01,
+    "name": "I195_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5604,
+    "psnr": 92.46,
+    "compressed_size": 49274,
+    "bpp": 1.5037,
+    "compression_ratio": 10.64,
+    "name": "I196_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5846,
+    "psnr": 85.24,
+    "compressed_size": 26509,
+    "bpp": 0.809,
+    "compression_ratio": 19.78,
+    "name": "I196_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.9177,
+    "psnr": 80.89,
+    "compressed_size": 17229,
+    "bpp": 0.5258,
+    "compression_ratio": 30.43,
+    "name": "I196_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5451,
+    "psnr": 92.55,
+    "compressed_size": 48134,
+    "bpp": 1.4689,
+    "compression_ratio": 10.89,
+    "name": "I197_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5419,
+    "psnr": 85.34,
+    "compressed_size": 25867,
+    "bpp": 0.7894,
+    "compression_ratio": 20.27,
+    "name": "I197_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8672,
+    "psnr": 80.96,
+    "compressed_size": 16843,
+    "bpp": 0.514,
+    "compression_ratio": 31.13,
+    "name": "I197_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5375,
+    "psnr": 92.59,
+    "compressed_size": 47617,
+    "bpp": 1.4532,
+    "compression_ratio": 11.01,
+    "name": "I198_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5276,
+    "psnr": 85.38,
+    "compressed_size": 25491,
+    "bpp": 0.7779,
+    "compression_ratio": 20.57,
+    "name": "I198_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8068,
+    "psnr": 81.05,
+    "compressed_size": 16655,
+    "bpp": 0.5083,
+    "compression_ratio": 31.48,
+    "name": "I198_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5294,
+    "psnr": 92.64,
+    "compressed_size": 47396,
+    "bpp": 1.4464,
+    "compression_ratio": 11.06,
+    "name": "I199_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5113,
+    "psnr": 85.42,
+    "compressed_size": 25478,
+    "bpp": 0.7775,
+    "compression_ratio": 20.58,
+    "name": "I199_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8288,
+    "psnr": 81.02,
+    "compressed_size": 16638,
+    "bpp": 0.5078,
+    "compression_ratio": 31.51,
+    "name": "I199_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 90588,
+    "bpp": 2.7645,
+    "compression_ratio": 5.79,
+    "name": "I19_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5153,
+    "psnr": 37.03,
+    "compressed_size": 51907,
+    "bpp": 1.5841,
+    "compression_ratio": 10.1,
+    "name": "I19_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5351,
+    "psnr": 37.03,
+    "compressed_size": 36953,
+    "bpp": 1.1277,
+    "compression_ratio": 14.19,
+    "name": "I19_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.2434,
+    "psnr": 89.31,
+    "compressed_size": 63767,
+    "bpp": 1.6647,
+    "compression_ratio": 9.61,
+    "name": "I1_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1534,
+    "psnr": 83.96,
+    "compressed_size": 24683,
+    "bpp": 0.6444,
+    "compression_ratio": 24.83,
+    "name": "I1_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.401,
+    "psnr": 80.2,
+    "compressed_size": 14185,
+    "bpp": 0.3703,
+    "compression_ratio": 43.21,
+    "name": "I1_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5183,
+    "psnr": 92.7,
+    "compressed_size": 46594,
+    "bpp": 1.4219,
+    "compression_ratio": 11.25,
+    "name": "I200_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.477,
+    "psnr": 85.51,
+    "compressed_size": 25045,
+    "bpp": 0.7643,
+    "compression_ratio": 20.93,
+    "name": "I200_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.7603,
+    "psnr": 81.12,
+    "compressed_size": 16308,
+    "bpp": 0.4977,
+    "compression_ratio": 32.15,
+    "name": "I200_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.505,
+    "psnr": 92.78,
+    "compressed_size": 45763,
+    "bpp": 1.3966,
+    "compression_ratio": 11.46,
+    "name": "I201_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4522,
+    "psnr": 85.57,
+    "compressed_size": 24551,
+    "bpp": 0.7492,
+    "compression_ratio": 21.36,
+    "name": "I201_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6968,
+    "psnr": 81.22,
+    "compressed_size": 15897,
+    "bpp": 0.4851,
+    "compression_ratio": 32.98,
+    "name": "I201_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4967,
+    "psnr": 92.83,
+    "compressed_size": 44967,
+    "bpp": 1.3723,
+    "compression_ratio": 11.66,
+    "name": "I202_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4288,
+    "psnr": 85.63,
+    "compressed_size": 24003,
+    "bpp": 0.7325,
+    "compression_ratio": 21.84,
+    "name": "I202_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6565,
+    "psnr": 81.28,
+    "compressed_size": 15719,
+    "bpp": 0.4797,
+    "compression_ratio": 33.35,
+    "name": "I202_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4812,
+    "psnr": 92.92,
+    "compressed_size": 43855,
+    "bpp": 1.3383,
+    "compression_ratio": 11.96,
+    "name": "I203_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3849,
+    "psnr": 85.74,
+    "compressed_size": 23441,
+    "bpp": 0.7154,
+    "compression_ratio": 22.37,
+    "name": "I203_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6322,
+    "psnr": 81.32,
+    "compressed_size": 15334,
+    "bpp": 0.468,
+    "compression_ratio": 34.19,
+    "name": "I203_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.465,
+    "psnr": 93.01,
+    "compressed_size": 42706,
+    "bpp": 1.3033,
+    "compression_ratio": 12.28,
+    "name": "I204_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3376,
+    "psnr": 85.86,
+    "compressed_size": 22846,
+    "bpp": 0.6972,
+    "compression_ratio": 22.95,
+    "name": "I204_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.5224,
+    "psnr": 81.49,
+    "compressed_size": 15075,
+    "bpp": 0.4601,
+    "compression_ratio": 34.78,
+    "name": "I204_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4446,
+    "psnr": 93.13,
+    "compressed_size": 41329,
+    "bpp": 1.2613,
+    "compression_ratio": 12.69,
+    "name": "I205_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.2891,
+    "psnr": 85.99,
+    "compressed_size": 21762,
+    "bpp": 0.6641,
+    "compression_ratio": 24.09,
+    "name": "I205_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.41,
+    "psnr": 81.67,
+    "compressed_size": 14357,
+    "bpp": 0.4381,
+    "compression_ratio": 36.52,
+    "name": "I205_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4244,
+    "psnr": 93.26,
+    "compressed_size": 39333,
+    "bpp": 1.2003,
+    "compression_ratio": 13.33,
+    "name": "I206_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.2156,
+    "psnr": 86.18,
+    "compressed_size": 20373,
+    "bpp": 0.6217,
+    "compression_ratio": 25.73,
+    "name": "I206_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.2769,
+    "psnr": 81.88,
+    "compressed_size": 13124,
+    "bpp": 0.4005,
+    "compression_ratio": 39.95,
+    "name": "I206_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4006,
+    "psnr": 93.4,
+    "compressed_size": 36088,
+    "bpp": 1.1013,
+    "compression_ratio": 14.53,
+    "name": "I207_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.1104,
+    "psnr": 86.47,
+    "compressed_size": 17979,
+    "bpp": 0.5487,
+    "compression_ratio": 29.16,
+    "name": "I207_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.053,
+    "psnr": 82.26,
+    "compressed_size": 11384,
+    "bpp": 0.3474,
+    "compression_ratio": 46.05,
+    "name": "I207_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3708,
+    "psnr": 93.59,
+    "compressed_size": 33942,
+    "bpp": 1.0358,
+    "compression_ratio": 15.45,
+    "name": "I208_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.02,
+    "psnr": 86.73,
+    "compressed_size": 16547,
+    "bpp": 0.505,
+    "compression_ratio": 31.68,
+    "name": "I208_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.8405,
+    "psnr": 82.63,
+    "compressed_size": 10266,
+    "bpp": 0.3133,
+    "compression_ratio": 51.07,
+    "name": "I208_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3414,
+    "psnr": 93.78,
+    "compressed_size": 31275,
+    "bpp": 0.9544,
+    "compression_ratio": 16.76,
+    "name": "I209_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.9186,
+    "psnr": 87.03,
+    "compressed_size": 14757,
+    "bpp": 0.4503,
+    "compression_ratio": 35.53,
+    "name": "I209_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.6304,
+    "psnr": 83.02,
+    "compressed_size": 9067,
+    "bpp": 0.2767,
+    "compression_ratio": 57.82,
+    "name": "I209_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 89230,
+    "bpp": 2.7231,
+    "compression_ratio": 5.88,
+    "name": "I20_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5152,
+    "psnr": 37.03,
+    "compressed_size": 51158,
+    "bpp": 1.5612,
+    "compression_ratio": 10.25,
+    "name": "I20_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5348,
+    "psnr": 37.03,
+    "compressed_size": 36494,
+    "bpp": 1.1137,
+    "compression_ratio": 14.37,
+    "name": "I20_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2866,
+    "psnr": 94.14,
+    "compressed_size": 26808,
+    "bpp": 0.8181,
+    "compression_ratio": 19.56,
+    "name": "I210_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7234,
+    "psnr": 87.63,
+    "compressed_size": 11782,
+    "bpp": 0.3596,
+    "compression_ratio": 44.5,
+    "name": "I210_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.2989,
+    "psnr": 83.66,
+    "compressed_size": 7080,
+    "bpp": 0.2161,
+    "compression_ratio": 74.05,
+    "name": "I210_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2547,
+    "psnr": 94.36,
+    "compressed_size": 24904,
+    "bpp": 0.76,
+    "compression_ratio": 21.05,
+    "name": "I211_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.6331,
+    "psnr": 87.92,
+    "compressed_size": 10635,
+    "bpp": 0.3246,
+    "compression_ratio": 49.3,
+    "name": "I211_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1002,
+    "psnr": 84.07,
+    "compressed_size": 6158,
+    "bpp": 0.1879,
+    "compression_ratio": 85.14,
+    "name": "I211_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2381,
+    "psnr": 94.47,
+    "compressed_size": 23479,
+    "bpp": 0.7165,
+    "compression_ratio": 22.33,
+    "name": "I212_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.5888,
+    "psnr": 88.07,
+    "compressed_size": 9818,
+    "bpp": 0.2996,
+    "compression_ratio": 53.4,
+    "name": "I212_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9708,
+    "psnr": 84.35,
+    "compressed_size": 5647,
+    "bpp": 0.1723,
+    "compression_ratio": 92.84,
+    "name": "I212_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.211,
+    "psnr": 94.67,
+    "compressed_size": 22366,
+    "bpp": 0.6826,
+    "compression_ratio": 23.44,
+    "name": "I213_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.5185,
+    "psnr": 88.31,
+    "compressed_size": 9383,
+    "bpp": 0.2863,
+    "compression_ratio": 55.88,
+    "name": "I213_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8512,
+    "psnr": 84.62,
+    "compressed_size": 5281,
+    "bpp": 0.1612,
+    "compression_ratio": 99.28,
+    "name": "I213_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.3065,
+    "psnr": 89.07,
+    "compressed_size": 140984,
+    "bpp": 4.3025,
+    "compression_ratio": 3.72,
+    "name": "I214_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0649,
+    "psnr": 80.67,
+    "compressed_size": 86048,
+    "bpp": 2.626,
+    "compression_ratio": 6.09,
+    "name": "I214_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 10.5616,
+    "psnr": 75.85,
+    "compressed_size": 62420,
+    "bpp": 1.9049,
+    "compression_ratio": 8.4,
+    "name": "I214_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3167,
+    "psnr": 93.94,
+    "compressed_size": 23932,
+    "bpp": 0.7303,
+    "compression_ratio": 21.91,
+    "name": "I215_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.6139,
+    "psnr": 87.98,
+    "compressed_size": 8994,
+    "bpp": 0.2745,
+    "compression_ratio": 58.29,
+    "name": "I215_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8757,
+    "psnr": 84.56,
+    "compressed_size": 5006,
+    "bpp": 0.1528,
+    "compression_ratio": 104.73,
+    "name": "I215_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3437,
+    "psnr": 93.76,
+    "compressed_size": 25713,
+    "bpp": 0.7847,
+    "compression_ratio": 20.39,
+    "name": "I216_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7019,
+    "psnr": 87.7,
+    "compressed_size": 9895,
+    "bpp": 0.302,
+    "compression_ratio": 52.99,
+    "name": "I216_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0314,
+    "psnr": 84.22,
+    "compressed_size": 5735,
+    "bpp": 0.175,
+    "compression_ratio": 91.42,
+    "name": "I216_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3662,
+    "psnr": 93.62,
+    "compressed_size": 27077,
+    "bpp": 0.8263,
+    "compression_ratio": 19.36,
+    "name": "I217_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7583,
+    "psnr": 87.52,
+    "compressed_size": 10717,
+    "bpp": 0.3271,
+    "compression_ratio": 48.92,
+    "name": "I217_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1534,
+    "psnr": 83.96,
+    "compressed_size": 6283,
+    "bpp": 0.1917,
+    "compression_ratio": 83.45,
+    "name": "I217_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.391,
+    "psnr": 93.46,
+    "compressed_size": 28792,
+    "bpp": 0.8787,
+    "compression_ratio": 18.21,
+    "name": "I218_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8435,
+    "psnr": 87.25,
+    "compressed_size": 11867,
+    "bpp": 0.3622,
+    "compression_ratio": 44.18,
+    "name": "I218_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.3077,
+    "psnr": 83.64,
+    "compressed_size": 6952,
+    "bpp": 0.2122,
+    "compression_ratio": 75.42,
+    "name": "I218_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4067,
+    "psnr": 93.37,
+    "compressed_size": 30080,
+    "bpp": 0.918,
+    "compression_ratio": 17.43,
+    "name": "I219_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8814,
+    "psnr": 87.14,
+    "compressed_size": 12671,
+    "bpp": 0.3867,
+    "compression_ratio": 41.38,
+    "name": "I219_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.4622,
+    "psnr": 83.34,
+    "compressed_size": 7591,
+    "bpp": 0.2317,
+    "compression_ratio": 69.07,
+    "name": "I219_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 87665,
+    "bpp": 2.6753,
+    "compression_ratio": 5.98,
+    "name": "I21_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5149,
+    "psnr": 37.03,
+    "compressed_size": 49942,
+    "bpp": 1.5241,
+    "compression_ratio": 10.5,
+    "name": "I21_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5337,
+    "psnr": 37.03,
+    "compressed_size": 35763,
+    "bpp": 1.0914,
+    "compression_ratio": 14.66,
+    "name": "I21_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4393,
+    "psnr": 93.17,
+    "compressed_size": 32705,
+    "bpp": 0.9981,
+    "compression_ratio": 16.03,
+    "name": "I220_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.0052,
+    "psnr": 86.77,
+    "compressed_size": 14199,
+    "bpp": 0.4333,
+    "compression_ratio": 36.92,
+    "name": "I220_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.6795,
+    "psnr": 82.93,
+    "compressed_size": 8624,
+    "bpp": 0.2632,
+    "compression_ratio": 60.79,
+    "name": "I220_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4564,
+    "psnr": 93.06,
+    "compressed_size": 34296,
+    "bpp": 1.0466,
+    "compression_ratio": 15.29,
+    "name": "I221_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.0375,
+    "psnr": 86.68,
+    "compressed_size": 15536,
+    "bpp": 0.4741,
+    "compression_ratio": 33.75,
+    "name": "I221_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.7384,
+    "psnr": 82.82,
+    "compressed_size": 9482,
+    "bpp": 0.2894,
+    "compression_ratio": 55.29,
+    "name": "I221_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.469,
+    "psnr": 92.99,
+    "compressed_size": 36651,
+    "bpp": 1.1185,
+    "compression_ratio": 14.3,
+    "name": "I222_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.1457,
+    "psnr": 86.38,
+    "compressed_size": 17026,
+    "bpp": 0.5196,
+    "compression_ratio": 30.79,
+    "name": "I222_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.9549,
+    "psnr": 82.43,
+    "compressed_size": 10661,
+    "bpp": 0.3253,
+    "compression_ratio": 49.18,
+    "name": "I222_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4971,
+    "psnr": 92.82,
+    "compressed_size": 39742,
+    "bpp": 1.2128,
+    "compression_ratio": 13.19,
+    "name": "I223_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.2526,
+    "psnr": 86.08,
+    "compressed_size": 19229,
+    "bpp": 0.5868,
+    "compression_ratio": 27.27,
+    "name": "I223_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.2341,
+    "psnr": 81.95,
+    "compressed_size": 12347,
+    "bpp": 0.3768,
+    "compression_ratio": 42.46,
+    "name": "I223_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.522,
+    "psnr": 92.68,
+    "compressed_size": 41981,
+    "bpp": 1.2812,
+    "compression_ratio": 12.49,
+    "name": "I224_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3415,
+    "psnr": 85.85,
+    "compressed_size": 21030,
+    "bpp": 0.6418,
+    "compression_ratio": 24.93,
+    "name": "I224_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.4079,
+    "psnr": 81.67,
+    "compressed_size": 13683,
+    "bpp": 0.4176,
+    "compression_ratio": 38.32,
+    "name": "I224_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5304,
+    "psnr": 92.63,
+    "compressed_size": 43488,
+    "bpp": 1.3271,
+    "compression_ratio": 12.06,
+    "name": "I225_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3849,
+    "psnr": 85.74,
+    "compressed_size": 22058,
+    "bpp": 0.6732,
+    "compression_ratio": 23.77,
+    "name": "I225_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.5335,
+    "psnr": 81.47,
+    "compressed_size": 14324,
+    "bpp": 0.4371,
+    "compression_ratio": 36.6,
+    "name": "I225_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5465,
+    "psnr": 92.54,
+    "compressed_size": 45752,
+    "bpp": 1.3962,
+    "compression_ratio": 11.46,
+    "name": "I226_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4754,
+    "psnr": 85.51,
+    "compressed_size": 23684,
+    "bpp": 0.7228,
+    "compression_ratio": 22.14,
+    "name": "I226_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6517,
+    "psnr": 81.29,
+    "compressed_size": 15461,
+    "bpp": 0.4718,
+    "compression_ratio": 33.91,
+    "name": "I226_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.568,
+    "psnr": 92.42,
+    "compressed_size": 47750,
+    "bpp": 1.4572,
+    "compression_ratio": 10.98,
+    "name": "I227_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5259,
+    "psnr": 85.38,
+    "compressed_size": 25179,
+    "bpp": 0.7684,
+    "compression_ratio": 20.82,
+    "name": "I227_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8629,
+    "psnr": 80.97,
+    "compressed_size": 16652,
+    "bpp": 0.5082,
+    "compression_ratio": 31.48,
+    "name": "I227_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.586,
+    "psnr": 92.32,
+    "compressed_size": 49521,
+    "bpp": 1.5113,
+    "compression_ratio": 10.59,
+    "name": "I228_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5817,
+    "psnr": 85.25,
+    "compressed_size": 26350,
+    "bpp": 0.8041,
+    "compression_ratio": 19.9,
+    "name": "I228_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.9397,
+    "psnr": 80.85,
+    "compressed_size": 17488,
+    "bpp": 0.5337,
+    "compression_ratio": 29.98,
+    "name": "I228_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5928,
+    "psnr": 92.29,
+    "compressed_size": 50844,
+    "bpp": 1.5516,
+    "compression_ratio": 10.31,
+    "name": "I229_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6194,
+    "psnr": 85.16,
+    "compressed_size": 27192,
+    "bpp": 0.8298,
+    "compression_ratio": 19.28,
+    "name": "I229_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.9835,
+    "psnr": 80.79,
+    "compressed_size": 18335,
+    "bpp": 0.5595,
+    "compression_ratio": 28.59,
+    "name": "I229_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 85132,
+    "bpp": 2.598,
+    "compression_ratio": 6.16,
+    "name": "I22_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5144,
+    "psnr": 37.03,
+    "compressed_size": 48311,
+    "bpp": 1.4743,
+    "compression_ratio": 10.85,
+    "name": "I22_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5323,
+    "psnr": 37.03,
+    "compressed_size": 34502,
+    "bpp": 1.0529,
+    "compression_ratio": 15.2,
+    "name": "I22_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5953,
+    "psnr": 92.27,
+    "compressed_size": 51610,
+    "bpp": 1.575,
+    "compression_ratio": 10.16,
+    "name": "I230_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6352,
+    "psnr": 85.12,
+    "compressed_size": 27891,
+    "bpp": 0.8512,
+    "compression_ratio": 18.8,
+    "name": "I230_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.0939,
+    "psnr": 80.63,
+    "compressed_size": 18667,
+    "bpp": 0.5697,
+    "compression_ratio": 28.09,
+    "name": "I230_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.609,
+    "psnr": 92.2,
+    "compressed_size": 52455,
+    "bpp": 1.6008,
+    "compression_ratio": 10.0,
+    "name": "I231_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.66,
+    "psnr": 85.06,
+    "compressed_size": 28487,
+    "bpp": 0.8694,
+    "compression_ratio": 18.4,
+    "name": "I231_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1508,
+    "psnr": 80.55,
+    "compressed_size": 18982,
+    "bpp": 0.5793,
+    "compression_ratio": 27.62,
+    "name": "I231_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.619,
+    "psnr": 92.14,
+    "compressed_size": 53646,
+    "bpp": 1.6371,
+    "compression_ratio": 9.77,
+    "name": "I232_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7056,
+    "psnr": 84.95,
+    "compressed_size": 29171,
+    "bpp": 0.8902,
+    "compression_ratio": 17.97,
+    "name": "I232_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.192,
+    "psnr": 80.49,
+    "compressed_size": 19565,
+    "bpp": 0.5971,
+    "compression_ratio": 26.8,
+    "name": "I232_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6306,
+    "psnr": 92.08,
+    "compressed_size": 54831,
+    "bpp": 1.6733,
+    "compression_ratio": 9.56,
+    "name": "I233_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.764,
+    "psnr": 84.82,
+    "compressed_size": 29780,
+    "bpp": 0.9088,
+    "compression_ratio": 17.61,
+    "name": "I233_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.287,
+    "psnr": 80.36,
+    "compressed_size": 19967,
+    "bpp": 0.6093,
+    "compression_ratio": 26.26,
+    "name": "I233_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6449,
+    "psnr": 92.01,
+    "compressed_size": 55604,
+    "bpp": 1.6969,
+    "compression_ratio": 9.43,
+    "name": "I234_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7638,
+    "psnr": 84.82,
+    "compressed_size": 30332,
+    "bpp": 0.9257,
+    "compression_ratio": 17.28,
+    "name": "I234_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3124,
+    "psnr": 80.33,
+    "compressed_size": 20490,
+    "bpp": 0.6253,
+    "compression_ratio": 25.59,
+    "name": "I234_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6551,
+    "psnr": 91.95,
+    "compressed_size": 57219,
+    "bpp": 1.7462,
+    "compression_ratio": 9.16,
+    "name": "I235_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8267,
+    "psnr": 84.67,
+    "compressed_size": 31600,
+    "bpp": 0.9644,
+    "compression_ratio": 16.59,
+    "name": "I235_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3911,
+    "psnr": 80.22,
+    "compressed_size": 21132,
+    "bpp": 0.6449,
+    "compression_ratio": 24.81,
+    "name": "I235_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6582,
+    "psnr": 91.94,
+    "compressed_size": 58254,
+    "bpp": 1.7778,
+    "compression_ratio": 9.0,
+    "name": "I236_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8457,
+    "psnr": 84.63,
+    "compressed_size": 32284,
+    "bpp": 0.9852,
+    "compression_ratio": 16.24,
+    "name": "I236_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5112,
+    "psnr": 80.06,
+    "compressed_size": 21786,
+    "bpp": 0.6649,
+    "compression_ratio": 24.07,
+    "name": "I236_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6641,
+    "psnr": 91.91,
+    "compressed_size": 58503,
+    "bpp": 1.7854,
+    "compression_ratio": 8.96,
+    "name": "I237_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8709,
+    "psnr": 84.57,
+    "compressed_size": 32537,
+    "bpp": 0.993,
+    "compression_ratio": 16.11,
+    "name": "I237_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4903,
+    "psnr": 80.08,
+    "compressed_size": 21855,
+    "bpp": 0.667,
+    "compression_ratio": 23.99,
+    "name": "I237_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6645,
+    "psnr": 91.9,
+    "compressed_size": 57924,
+    "bpp": 1.7677,
+    "compression_ratio": 9.05,
+    "name": "I238_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8592,
+    "psnr": 84.6,
+    "compressed_size": 31909,
+    "bpp": 0.9738,
+    "compression_ratio": 16.43,
+    "name": "I238_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4592,
+    "psnr": 80.13,
+    "compressed_size": 21544,
+    "bpp": 0.6575,
+    "compression_ratio": 24.34,
+    "name": "I238_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6681,
+    "psnr": 91.89,
+    "compressed_size": 58334,
+    "bpp": 1.7802,
+    "compression_ratio": 8.99,
+    "name": "I239_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8587,
+    "psnr": 84.6,
+    "compressed_size": 32027,
+    "bpp": 0.9774,
+    "compression_ratio": 16.37,
+    "name": "I239_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4664,
+    "psnr": 80.12,
+    "compressed_size": 21600,
+    "bpp": 0.6592,
+    "compression_ratio": 24.27,
+    "name": "I239_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 83306,
+    "bpp": 2.5423,
+    "compression_ratio": 6.29,
+    "name": "I23_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5141,
+    "psnr": 37.03,
+    "compressed_size": 47394,
+    "bpp": 1.4464,
+    "compression_ratio": 11.06,
+    "name": "I23_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5318,
+    "psnr": 37.03,
+    "compressed_size": 33911,
+    "bpp": 1.0349,
+    "compression_ratio": 15.46,
+    "name": "I23_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6724,
+    "psnr": 91.86,
+    "compressed_size": 58430,
+    "bpp": 1.7831,
+    "compression_ratio": 8.97,
+    "name": "I240_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8697,
+    "psnr": 84.58,
+    "compressed_size": 32298,
+    "bpp": 0.9857,
+    "compression_ratio": 16.23,
+    "name": "I240_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4693,
+    "psnr": 80.11,
+    "compressed_size": 21546,
+    "bpp": 0.6575,
+    "compression_ratio": 24.33,
+    "name": "I240_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6709,
+    "psnr": 91.87,
+    "compressed_size": 58442,
+    "bpp": 1.7835,
+    "compression_ratio": 8.97,
+    "name": "I241_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8707,
+    "psnr": 84.57,
+    "compressed_size": 32441,
+    "bpp": 0.99,
+    "compression_ratio": 16.16,
+    "name": "I241_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4886,
+    "psnr": 80.09,
+    "compressed_size": 21617,
+    "bpp": 0.6597,
+    "compression_ratio": 24.25,
+    "name": "I241_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6781,
+    "psnr": 91.83,
+    "compressed_size": 59078,
+    "bpp": 1.8029,
+    "compression_ratio": 8.87,
+    "name": "I242_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8965,
+    "psnr": 84.52,
+    "compressed_size": 32828,
+    "bpp": 1.0018,
+    "compression_ratio": 15.97,
+    "name": "I242_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5346,
+    "psnr": 80.03,
+    "compressed_size": 21958,
+    "bpp": 0.6701,
+    "compression_ratio": 23.88,
+    "name": "I242_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6874,
+    "psnr": 91.79,
+    "compressed_size": 59945,
+    "bpp": 1.8294,
+    "compression_ratio": 8.75,
+    "name": "I243_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9164,
+    "psnr": 84.47,
+    "compressed_size": 33423,
+    "bpp": 1.02,
+    "compression_ratio": 15.69,
+    "name": "I243_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5743,
+    "psnr": 79.97,
+    "compressed_size": 22358,
+    "bpp": 0.6823,
+    "compression_ratio": 23.45,
+    "name": "I243_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6849,
+    "psnr": 91.8,
+    "compressed_size": 60396,
+    "bpp": 1.8431,
+    "compression_ratio": 8.68,
+    "name": "I244_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9479,
+    "psnr": 84.4,
+    "compressed_size": 33767,
+    "bpp": 1.0305,
+    "compression_ratio": 15.53,
+    "name": "I244_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6026,
+    "psnr": 79.94,
+    "compressed_size": 22600,
+    "bpp": 0.6897,
+    "compression_ratio": 23.2,
+    "name": "I244_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6836,
+    "psnr": 91.8,
+    "compressed_size": 60318,
+    "bpp": 1.8408,
+    "compression_ratio": 8.69,
+    "name": "I245_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9435,
+    "psnr": 84.41,
+    "compressed_size": 33721,
+    "bpp": 1.0291,
+    "compression_ratio": 15.55,
+    "name": "I245_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6063,
+    "psnr": 79.93,
+    "compressed_size": 22545,
+    "bpp": 0.688,
+    "compression_ratio": 23.26,
+    "name": "I245_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7007,
+    "psnr": 91.72,
+    "compressed_size": 61465,
+    "bpp": 1.8758,
+    "compression_ratio": 8.53,
+    "name": "I246_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9746,
+    "psnr": 84.34,
+    "compressed_size": 34541,
+    "bpp": 1.0541,
+    "compression_ratio": 15.18,
+    "name": "I246_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6962,
+    "psnr": 79.81,
+    "compressed_size": 23166,
+    "bpp": 0.707,
+    "compression_ratio": 22.63,
+    "name": "I246_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7077,
+    "psnr": 91.68,
+    "compressed_size": 62613,
+    "bpp": 1.9108,
+    "compression_ratio": 8.37,
+    "name": "I247_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9944,
+    "psnr": 84.3,
+    "compressed_size": 35081,
+    "bpp": 1.0706,
+    "compression_ratio": 14.95,
+    "name": "I247_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7572,
+    "psnr": 79.73,
+    "compressed_size": 23711,
+    "bpp": 0.7236,
+    "compression_ratio": 22.11,
+    "name": "I247_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7106,
+    "psnr": 91.67,
+    "compressed_size": 63330,
+    "bpp": 1.9327,
+    "compression_ratio": 8.28,
+    "name": "I248_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0264,
+    "psnr": 84.23,
+    "compressed_size": 35818,
+    "bpp": 1.0931,
+    "compression_ratio": 14.64,
+    "name": "I248_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7981,
+    "psnr": 79.68,
+    "compressed_size": 24131,
+    "bpp": 0.7364,
+    "compression_ratio": 21.73,
+    "name": "I248_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7093,
+    "psnr": 91.67,
+    "compressed_size": 63791,
+    "bpp": 1.9467,
+    "compression_ratio": 8.22,
+    "name": "I249_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0343,
+    "psnr": 84.21,
+    "compressed_size": 36092,
+    "bpp": 1.1014,
+    "compression_ratio": 14.53,
+    "name": "I249_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8207,
+    "psnr": 79.65,
+    "compressed_size": 24404,
+    "bpp": 0.7448,
+    "compression_ratio": 21.48,
+    "name": "I249_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 82118,
+    "bpp": 2.506,
+    "compression_ratio": 6.38,
+    "name": "I24_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5139,
+    "psnr": 37.03,
+    "compressed_size": 46785,
+    "bpp": 1.4278,
+    "compression_ratio": 11.21,
+    "name": "I24_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5313,
+    "psnr": 37.03,
+    "compressed_size": 33811,
+    "bpp": 1.0318,
+    "compression_ratio": 15.51,
+    "name": "I24_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7234,
+    "psnr": 91.6,
+    "compressed_size": 64716,
+    "bpp": 1.975,
+    "compression_ratio": 8.1,
+    "name": "I250_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0702,
+    "psnr": 84.14,
+    "compressed_size": 36778,
+    "bpp": 1.1224,
+    "compression_ratio": 14.26,
+    "name": "I250_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8671,
+    "psnr": 79.59,
+    "compressed_size": 24731,
+    "bpp": 0.7547,
+    "compression_ratio": 21.2,
+    "name": "I250_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7341,
+    "psnr": 91.55,
+    "compressed_size": 66105,
+    "bpp": 2.0174,
+    "compression_ratio": 7.93,
+    "name": "I251_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1003,
+    "psnr": 84.07,
+    "compressed_size": 37763,
+    "bpp": 1.1524,
+    "compression_ratio": 13.88,
+    "name": "I251_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.9695,
+    "psnr": 79.47,
+    "compressed_size": 25611,
+    "bpp": 0.7816,
+    "compression_ratio": 20.47,
+    "name": "I251_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7443,
+    "psnr": 91.5,
+    "compressed_size": 67550,
+    "bpp": 2.0615,
+    "compression_ratio": 7.76,
+    "name": "I252_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1462,
+    "psnr": 83.98,
+    "compressed_size": 38797,
+    "bpp": 1.184,
+    "compression_ratio": 13.51,
+    "name": "I252_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0694,
+    "psnr": 79.34,
+    "compressed_size": 26447,
+    "bpp": 0.8071,
+    "compression_ratio": 19.82,
+    "name": "I252_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7494,
+    "psnr": 91.47,
+    "compressed_size": 68475,
+    "bpp": 2.0897,
+    "compression_ratio": 7.66,
+    "name": "I253_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1692,
+    "psnr": 83.93,
+    "compressed_size": 39422,
+    "bpp": 1.2031,
+    "compression_ratio": 13.3,
+    "name": "I253_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.1314,
+    "psnr": 79.27,
+    "compressed_size": 26870,
+    "bpp": 0.82,
+    "compression_ratio": 19.51,
+    "name": "I253_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7517,
+    "psnr": 91.46,
+    "compressed_size": 68513,
+    "bpp": 2.0909,
+    "compression_ratio": 7.65,
+    "name": "I254_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1563,
+    "psnr": 83.96,
+    "compressed_size": 39544,
+    "bpp": 1.2068,
+    "compression_ratio": 13.26,
+    "name": "I254_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.136,
+    "psnr": 79.26,
+    "compressed_size": 27011,
+    "bpp": 0.8243,
+    "compression_ratio": 19.41,
+    "name": "I254_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7433,
+    "psnr": 91.5,
+    "compressed_size": 68254,
+    "bpp": 2.0829,
+    "compression_ratio": 7.68,
+    "name": "I255_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1684,
+    "psnr": 83.93,
+    "compressed_size": 39357,
+    "bpp": 1.2011,
+    "compression_ratio": 13.32,
+    "name": "I255_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0863,
+    "psnr": 79.32,
+    "compressed_size": 26707,
+    "bpp": 0.815,
+    "compression_ratio": 19.63,
+    "name": "I255_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7469,
+    "psnr": 91.48,
+    "compressed_size": 68241,
+    "bpp": 2.0826,
+    "compression_ratio": 7.68,
+    "name": "I256_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1677,
+    "psnr": 83.93,
+    "compressed_size": 39399,
+    "bpp": 1.2024,
+    "compression_ratio": 13.31,
+    "name": "I256_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.1206,
+    "psnr": 79.28,
+    "compressed_size": 26752,
+    "bpp": 0.8164,
+    "compression_ratio": 19.6,
+    "name": "I256_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7428,
+    "psnr": 91.5,
+    "compressed_size": 67608,
+    "bpp": 2.0632,
+    "compression_ratio": 7.75,
+    "name": "I257_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1473,
+    "psnr": 83.97,
+    "compressed_size": 38854,
+    "bpp": 1.1857,
+    "compression_ratio": 13.49,
+    "name": "I257_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0729,
+    "psnr": 79.34,
+    "compressed_size": 26397,
+    "bpp": 0.8056,
+    "compression_ratio": 19.86,
+    "name": "I257_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7497,
+    "psnr": 91.47,
+    "compressed_size": 68725,
+    "bpp": 2.0973,
+    "compression_ratio": 7.63,
+    "name": "I258_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1773,
+    "psnr": 83.91,
+    "compressed_size": 39891,
+    "bpp": 1.2174,
+    "compression_ratio": 13.14,
+    "name": "I258_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.1144,
+    "psnr": 79.29,
+    "compressed_size": 27150,
+    "bpp": 0.8286,
+    "compression_ratio": 19.31,
+    "name": "I258_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7597,
+    "psnr": 91.42,
+    "compressed_size": 69519,
+    "bpp": 2.1216,
+    "compression_ratio": 7.54,
+    "name": "I259_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.2027,
+    "psnr": 83.86,
+    "compressed_size": 40440,
+    "bpp": 1.2341,
+    "compression_ratio": 12.96,
+    "name": "I259_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.1729,
+    "psnr": 79.22,
+    "compressed_size": 27445,
+    "bpp": 0.8376,
+    "compression_ratio": 19.1,
+    "name": "I259_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 82665,
+    "bpp": 2.5227,
+    "compression_ratio": 6.34,
+    "name": "I25_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.514,
+    "psnr": 37.03,
+    "compressed_size": 47113,
+    "bpp": 1.4378,
+    "compression_ratio": 11.13,
+    "name": "I25_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5316,
+    "psnr": 37.03,
+    "compressed_size": 33873,
+    "bpp": 1.0337,
+    "compression_ratio": 15.48,
+    "name": "I25_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7416,
+    "psnr": 91.51,
+    "compressed_size": 67956,
+    "bpp": 2.0739,
+    "compression_ratio": 7.72,
+    "name": "I260_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1494,
+    "psnr": 83.97,
+    "compressed_size": 38949,
+    "bpp": 1.1886,
+    "compression_ratio": 13.46,
+    "name": "I260_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0877,
+    "psnr": 79.32,
+    "compressed_size": 26467,
+    "bpp": 0.8077,
+    "compression_ratio": 19.81,
+    "name": "I260_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7493,
+    "psnr": 91.47,
+    "compressed_size": 68008,
+    "bpp": 2.0754,
+    "compression_ratio": 7.71,
+    "name": "I261_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1648,
+    "psnr": 83.94,
+    "compressed_size": 39320,
+    "bpp": 1.2,
+    "compression_ratio": 13.33,
+    "name": "I261_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0921,
+    "psnr": 79.31,
+    "compressed_size": 26713,
+    "bpp": 0.8152,
+    "compression_ratio": 19.63,
+    "name": "I261_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7419,
+    "psnr": 91.51,
+    "compressed_size": 68096,
+    "bpp": 2.0781,
+    "compression_ratio": 7.7,
+    "name": "I262_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1555,
+    "psnr": 83.96,
+    "compressed_size": 39076,
+    "bpp": 1.1925,
+    "compression_ratio": 13.42,
+    "name": "I262_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0871,
+    "psnr": 79.32,
+    "compressed_size": 26574,
+    "bpp": 0.811,
+    "compression_ratio": 19.73,
+    "name": "I262_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7459,
+    "psnr": 91.49,
+    "compressed_size": 67941,
+    "bpp": 2.0734,
+    "compression_ratio": 7.72,
+    "name": "I263_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1684,
+    "psnr": 83.93,
+    "compressed_size": 39104,
+    "bpp": 1.1934,
+    "compression_ratio": 13.41,
+    "name": "I263_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0811,
+    "psnr": 79.33,
+    "compressed_size": 26450,
+    "bpp": 0.8072,
+    "compression_ratio": 19.82,
+    "name": "I263_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7485,
+    "psnr": 91.48,
+    "compressed_size": 68004,
+    "bpp": 2.0753,
+    "compression_ratio": 7.71,
+    "name": "I264_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1636,
+    "psnr": 83.94,
+    "compressed_size": 39100,
+    "bpp": 1.1932,
+    "compression_ratio": 13.41,
+    "name": "I264_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0717,
+    "psnr": 79.34,
+    "compressed_size": 26565,
+    "bpp": 0.8107,
+    "compression_ratio": 19.74,
+    "name": "I264_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7397,
+    "psnr": 91.52,
+    "compressed_size": 67484,
+    "bpp": 2.0594,
+    "compression_ratio": 7.77,
+    "name": "I265_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.1502,
+    "psnr": 83.97,
+    "compressed_size": 38935,
+    "bpp": 1.1882,
+    "compression_ratio": 13.47,
+    "name": "I265_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 7.0344,
+    "psnr": 79.38,
+    "compressed_size": 26425,
+    "bpp": 0.8064,
+    "compression_ratio": 19.84,
+    "name": "I265_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7373,
+    "psnr": 91.53,
+    "compressed_size": 66676,
+    "bpp": 2.0348,
+    "compression_ratio": 7.86,
+    "name": "I266_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.106,
+    "psnr": 84.06,
+    "compressed_size": 37917,
+    "bpp": 1.1571,
+    "compression_ratio": 13.83,
+    "name": "I266_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.9713,
+    "psnr": 79.46,
+    "compressed_size": 25736,
+    "bpp": 0.7854,
+    "compression_ratio": 20.37,
+    "name": "I266_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7236,
+    "psnr": 91.6,
+    "compressed_size": 65396,
+    "bpp": 1.9957,
+    "compression_ratio": 8.02,
+    "name": "I267_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0924,
+    "psnr": 84.09,
+    "compressed_size": 37300,
+    "bpp": 1.1383,
+    "compression_ratio": 14.06,
+    "name": "I267_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.91,
+    "psnr": 79.54,
+    "compressed_size": 25193,
+    "bpp": 0.7688,
+    "compression_ratio": 20.81,
+    "name": "I267_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7148,
+    "psnr": 91.65,
+    "compressed_size": 64038,
+    "bpp": 1.9543,
+    "compression_ratio": 8.19,
+    "name": "I268_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.03,
+    "psnr": 84.22,
+    "compressed_size": 36200,
+    "bpp": 1.1047,
+    "compression_ratio": 14.48,
+    "name": "I268_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.8205,
+    "psnr": 79.65,
+    "compressed_size": 24568,
+    "bpp": 0.7498,
+    "compression_ratio": 21.34,
+    "name": "I268_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7035,
+    "psnr": 91.7,
+    "compressed_size": 63440,
+    "bpp": 1.936,
+    "compression_ratio": 8.26,
+    "name": "I269_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0216,
+    "psnr": 84.24,
+    "compressed_size": 35783,
+    "bpp": 1.092,
+    "compression_ratio": 14.65,
+    "name": "I269_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7784,
+    "psnr": 79.71,
+    "compressed_size": 24277,
+    "bpp": 0.7409,
+    "compression_ratio": 21.6,
+    "name": "I269_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 82783,
+    "bpp": 2.5263,
+    "compression_ratio": 6.33,
+    "name": "I26_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5139,
+    "psnr": 37.03,
+    "compressed_size": 47420,
+    "bpp": 1.4471,
+    "compression_ratio": 11.06,
+    "name": "I26_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5316,
+    "psnr": 37.03,
+    "compressed_size": 34009,
+    "bpp": 1.0379,
+    "compression_ratio": 15.42,
+    "name": "I26_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.7028,
+    "psnr": 91.71,
+    "compressed_size": 62482,
+    "bpp": 1.9068,
+    "compression_ratio": 8.39,
+    "name": "I270_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0006,
+    "psnr": 84.29,
+    "compressed_size": 35209,
+    "bpp": 1.0745,
+    "compression_ratio": 14.89,
+    "name": "I270_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7496,
+    "psnr": 79.74,
+    "compressed_size": 23683,
+    "bpp": 0.7227,
+    "compression_ratio": 22.14,
+    "name": "I270_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6943,
+    "psnr": 91.75,
+    "compressed_size": 61716,
+    "bpp": 1.8834,
+    "compression_ratio": 8.5,
+    "name": "I271_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9675,
+    "psnr": 84.36,
+    "compressed_size": 34714,
+    "bpp": 1.0594,
+    "compression_ratio": 15.1,
+    "name": "I271_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.7159,
+    "psnr": 79.79,
+    "compressed_size": 23493,
+    "bpp": 0.7169,
+    "compression_ratio": 22.32,
+    "name": "I271_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6854,
+    "psnr": 91.8,
+    "compressed_size": 60792,
+    "bpp": 1.8552,
+    "compression_ratio": 8.62,
+    "name": "I272_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9421,
+    "psnr": 84.41,
+    "compressed_size": 34151,
+    "bpp": 1.0422,
+    "compression_ratio": 15.35,
+    "name": "I272_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.6359,
+    "psnr": 79.89,
+    "compressed_size": 23003,
+    "bpp": 0.702,
+    "compression_ratio": 22.79,
+    "name": "I272_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6843,
+    "psnr": 91.8,
+    "compressed_size": 59577,
+    "bpp": 1.8181,
+    "compression_ratio": 8.8,
+    "name": "I273_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9277,
+    "psnr": 84.45,
+    "compressed_size": 33158,
+    "bpp": 1.0119,
+    "compression_ratio": 15.81,
+    "name": "I273_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.5506,
+    "psnr": 80.0,
+    "compressed_size": 22057,
+    "bpp": 0.6731,
+    "compression_ratio": 23.77,
+    "name": "I273_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6667,
+    "psnr": 91.89,
+    "compressed_size": 58630,
+    "bpp": 1.7892,
+    "compression_ratio": 8.94,
+    "name": "I274_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8834,
+    "psnr": 84.55,
+    "compressed_size": 32394,
+    "bpp": 0.9886,
+    "compression_ratio": 16.18,
+    "name": "I274_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4957,
+    "psnr": 80.08,
+    "compressed_size": 21607,
+    "bpp": 0.6594,
+    "compression_ratio": 24.26,
+    "name": "I274_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6686,
+    "psnr": 91.88,
+    "compressed_size": 58129,
+    "bpp": 1.774,
+    "compression_ratio": 9.02,
+    "name": "I275_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8707,
+    "psnr": 84.57,
+    "compressed_size": 32145,
+    "bpp": 0.981,
+    "compression_ratio": 16.31,
+    "name": "I275_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4386,
+    "psnr": 80.15,
+    "compressed_size": 21573,
+    "bpp": 0.6584,
+    "compression_ratio": 24.3,
+    "name": "I275_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6648,
+    "psnr": 91.9,
+    "compressed_size": 58084,
+    "bpp": 1.7726,
+    "compression_ratio": 9.03,
+    "name": "I276_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8508,
+    "psnr": 84.62,
+    "compressed_size": 31992,
+    "bpp": 0.9763,
+    "compression_ratio": 16.39,
+    "name": "I276_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.429,
+    "psnr": 80.17,
+    "compressed_size": 21461,
+    "bpp": 0.6549,
+    "compression_ratio": 24.43,
+    "name": "I276_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6586,
+    "psnr": 91.93,
+    "compressed_size": 57765,
+    "bpp": 1.7628,
+    "compression_ratio": 9.08,
+    "name": "I277_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8378,
+    "psnr": 84.65,
+    "compressed_size": 31918,
+    "bpp": 0.9741,
+    "compression_ratio": 16.43,
+    "name": "I277_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.4864,
+    "psnr": 80.09,
+    "compressed_size": 21417,
+    "bpp": 0.6536,
+    "compression_ratio": 24.48,
+    "name": "I277_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6572,
+    "psnr": 91.94,
+    "compressed_size": 56489,
+    "bpp": 1.7239,
+    "compression_ratio": 9.28,
+    "name": "I278_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8195,
+    "psnr": 84.69,
+    "compressed_size": 30954,
+    "bpp": 0.9446,
+    "compression_ratio": 16.94,
+    "name": "I278_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3803,
+    "psnr": 80.23,
+    "compressed_size": 20617,
+    "bpp": 0.6292,
+    "compression_ratio": 25.43,
+    "name": "I278_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6483,
+    "psnr": 91.99,
+    "compressed_size": 56157,
+    "bpp": 1.7138,
+    "compression_ratio": 9.34,
+    "name": "I279_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7998,
+    "psnr": 84.73,
+    "compressed_size": 30671,
+    "bpp": 0.936,
+    "compression_ratio": 17.09,
+    "name": "I279_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3206,
+    "psnr": 80.31,
+    "compressed_size": 20548,
+    "bpp": 0.6271,
+    "compression_ratio": 25.52,
+    "name": "I279_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5056,
+    "psnr": 37.03,
+    "compressed_size": 82285,
+    "bpp": 2.5111,
+    "compression_ratio": 6.37,
+    "name": "I27_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5139,
+    "psnr": 37.03,
+    "compressed_size": 47558,
+    "bpp": 1.4514,
+    "compression_ratio": 11.02,
+    "name": "I27_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.532,
+    "psnr": 37.03,
+    "compressed_size": 34130,
+    "bpp": 1.0416,
+    "compression_ratio": 15.36,
+    "name": "I27_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6417,
+    "psnr": 92.02,
+    "compressed_size": 56129,
+    "bpp": 1.7129,
+    "compression_ratio": 9.34,
+    "name": "I280_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7933,
+    "psnr": 84.75,
+    "compressed_size": 30749,
+    "bpp": 0.9384,
+    "compression_ratio": 17.05,
+    "name": "I280_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.358,
+    "psnr": 80.26,
+    "compressed_size": 20633,
+    "bpp": 0.6297,
+    "compression_ratio": 25.41,
+    "name": "I280_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.641,
+    "psnr": 92.03,
+    "compressed_size": 56638,
+    "bpp": 1.7285,
+    "compression_ratio": 9.26,
+    "name": "I281_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7902,
+    "psnr": 84.76,
+    "compressed_size": 31308,
+    "bpp": 0.9554,
+    "compression_ratio": 16.75,
+    "name": "I281_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3528,
+    "psnr": 80.27,
+    "compressed_size": 20884,
+    "bpp": 0.6373,
+    "compression_ratio": 25.1,
+    "name": "I281_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6347,
+    "psnr": 92.06,
+    "compressed_size": 56355,
+    "bpp": 1.7198,
+    "compression_ratio": 9.3,
+    "name": "I282_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.8047,
+    "psnr": 84.72,
+    "compressed_size": 31438,
+    "bpp": 0.9594,
+    "compression_ratio": 16.68,
+    "name": "I282_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3886,
+    "psnr": 80.22,
+    "compressed_size": 20982,
+    "bpp": 0.6403,
+    "compression_ratio": 24.99,
+    "name": "I282_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.632,
+    "psnr": 92.08,
+    "compressed_size": 56337,
+    "bpp": 1.7193,
+    "compression_ratio": 9.31,
+    "name": "I283_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7842,
+    "psnr": 84.77,
+    "compressed_size": 31143,
+    "bpp": 0.9504,
+    "compression_ratio": 16.83,
+    "name": "I283_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3643,
+    "psnr": 80.25,
+    "compressed_size": 21027,
+    "bpp": 0.6417,
+    "compression_ratio": 24.93,
+    "name": "I283_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6213,
+    "psnr": 92.13,
+    "compressed_size": 55759,
+    "bpp": 1.7016,
+    "compression_ratio": 9.4,
+    "name": "I284_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7705,
+    "psnr": 84.8,
+    "compressed_size": 30785,
+    "bpp": 0.9395,
+    "compression_ratio": 17.03,
+    "name": "I284_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.3598,
+    "psnr": 80.26,
+    "compressed_size": 20795,
+    "bpp": 0.6346,
+    "compression_ratio": 25.21,
+    "name": "I284_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.6148,
+    "psnr": 92.17,
+    "compressed_size": 54342,
+    "bpp": 1.6584,
+    "compression_ratio": 9.65,
+    "name": "I285_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.7173,
+    "psnr": 84.92,
+    "compressed_size": 30010,
+    "bpp": 0.9158,
+    "compression_ratio": 17.47,
+    "name": "I285_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.2782,
+    "psnr": 80.37,
+    "compressed_size": 20155,
+    "bpp": 0.6151,
+    "compression_ratio": 26.01,
+    "name": "I285_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.603,
+    "psnr": 92.23,
+    "compressed_size": 52695,
+    "bpp": 1.6081,
+    "compression_ratio": 9.95,
+    "name": "I286_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6833,
+    "psnr": 85.0,
+    "compressed_size": 28815,
+    "bpp": 0.8794,
+    "compression_ratio": 18.19,
+    "name": "I286_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1385,
+    "psnr": 80.57,
+    "compressed_size": 19257,
+    "bpp": 0.5877,
+    "compression_ratio": 27.23,
+    "name": "I286_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5822,
+    "psnr": 92.34,
+    "compressed_size": 51721,
+    "bpp": 1.5784,
+    "compression_ratio": 10.14,
+    "name": "I287_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.6278,
+    "psnr": 85.14,
+    "compressed_size": 28049,
+    "bpp": 0.856,
+    "compression_ratio": 18.69,
+    "name": "I287_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 6.1103,
+    "psnr": 80.61,
+    "compressed_size": 18936,
+    "bpp": 0.5779,
+    "compression_ratio": 27.69,
+    "name": "I287_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5738,
+    "psnr": 92.39,
+    "compressed_size": 49908,
+    "bpp": 1.5231,
+    "compression_ratio": 10.51,
+    "name": "I288_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5825,
+    "psnr": 85.25,
+    "compressed_size": 26892,
+    "bpp": 0.8207,
+    "compression_ratio": 19.5,
+    "name": "I288_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.9981,
+    "psnr": 80.77,
+    "compressed_size": 17893,
+    "bpp": 0.5461,
+    "compression_ratio": 29.3,
+    "name": "I288_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5527,
+    "psnr": 92.51,
+    "compressed_size": 48153,
+    "bpp": 1.4695,
+    "compression_ratio": 10.89,
+    "name": "I289_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.5272,
+    "psnr": 85.38,
+    "compressed_size": 25625,
+    "bpp": 0.782,
+    "compression_ratio": 20.46,
+    "name": "I289_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.8593,
+    "psnr": 80.97,
+    "compressed_size": 16918,
+    "bpp": 0.5163,
+    "compression_ratio": 30.99,
+    "name": "I289_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5056,
+    "psnr": 37.03,
+    "compressed_size": 80695,
+    "bpp": 2.4626,
+    "compression_ratio": 6.5,
+    "name": "I28_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5137,
+    "psnr": 37.03,
+    "compressed_size": 46657,
+    "bpp": 1.4239,
+    "compression_ratio": 11.24,
+    "name": "I28_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5315,
+    "psnr": 37.03,
+    "compressed_size": 33921,
+    "bpp": 1.0352,
+    "compression_ratio": 15.46,
+    "name": "I28_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5348,
+    "psnr": 92.61,
+    "compressed_size": 46268,
+    "bpp": 1.412,
+    "compression_ratio": 11.33,
+    "name": "I290_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4662,
+    "psnr": 85.53,
+    "compressed_size": 24293,
+    "bpp": 0.7414,
+    "compression_ratio": 21.58,
+    "name": "I290_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.7298,
+    "psnr": 81.17,
+    "compressed_size": 15885,
+    "bpp": 0.4848,
+    "compression_ratio": 33.01,
+    "name": "I290_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5257,
+    "psnr": 92.66,
+    "compressed_size": 44101,
+    "bpp": 1.3459,
+    "compression_ratio": 11.89,
+    "name": "I291_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.4132,
+    "psnr": 85.67,
+    "compressed_size": 22921,
+    "bpp": 0.6995,
+    "compression_ratio": 22.87,
+    "name": "I291_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.6068,
+    "psnr": 81.36,
+    "compressed_size": 14895,
+    "bpp": 0.4546,
+    "compression_ratio": 35.2,
+    "name": "I291_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.5023,
+    "psnr": 92.79,
+    "compressed_size": 42284,
+    "bpp": 1.2904,
+    "compression_ratio": 12.4,
+    "name": "I292_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.3425,
+    "psnr": 85.85,
+    "compressed_size": 21514,
+    "bpp": 0.6566,
+    "compression_ratio": 24.37,
+    "name": "I292_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.4476,
+    "psnr": 81.61,
+    "compressed_size": 13986,
+    "bpp": 0.4268,
+    "compression_ratio": 37.49,
+    "name": "I292_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4731,
+    "psnr": 92.96,
+    "compressed_size": 39517,
+    "bpp": 1.206,
+    "compression_ratio": 13.27,
+    "name": "I293_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.2224,
+    "psnr": 86.17,
+    "compressed_size": 19400,
+    "bpp": 0.592,
+    "compression_ratio": 27.03,
+    "name": "I293_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.2309,
+    "psnr": 81.96,
+    "compressed_size": 12486,
+    "bpp": 0.381,
+    "compression_ratio": 41.99,
+    "name": "I293_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4573,
+    "psnr": 93.06,
+    "compressed_size": 37026,
+    "bpp": 1.1299,
+    "compression_ratio": 14.16,
+    "name": "I294_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.153,
+    "psnr": 86.36,
+    "compressed_size": 17779,
+    "bpp": 0.5426,
+    "compression_ratio": 29.49,
+    "name": "I294_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 5.0479,
+    "psnr": 82.27,
+    "compressed_size": 11111,
+    "bpp": 0.3391,
+    "compression_ratio": 47.19,
+    "name": "I294_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4241,
+    "psnr": 93.26,
+    "compressed_size": 33931,
+    "bpp": 1.0355,
+    "compression_ratio": 15.45,
+    "name": "I295_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.0225,
+    "psnr": 86.72,
+    "compressed_size": 15666,
+    "bpp": 0.4781,
+    "compression_ratio": 33.47,
+    "name": "I295_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.7824,
+    "psnr": 82.74,
+    "compressed_size": 9520,
+    "bpp": 0.2905,
+    "compression_ratio": 55.07,
+    "name": "I295_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.4114,
+    "psnr": 93.34,
+    "compressed_size": 32658,
+    "bpp": 0.9966,
+    "compression_ratio": 16.05,
+    "name": "I296_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.9873,
+    "psnr": 86.82,
+    "compressed_size": 14676,
+    "bpp": 0.4479,
+    "compression_ratio": 35.72,
+    "name": "I296_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.7184,
+    "psnr": 82.85,
+    "compressed_size": 8875,
+    "bpp": 0.2708,
+    "compression_ratio": 59.07,
+    "name": "I296_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3878,
+    "psnr": 93.48,
+    "compressed_size": 30576,
+    "bpp": 0.9331,
+    "compression_ratio": 17.15,
+    "name": "I297_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8832,
+    "psnr": 87.13,
+    "compressed_size": 13676,
+    "bpp": 0.4174,
+    "compression_ratio": 38.34,
+    "name": "I297_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.4803,
+    "psnr": 83.3,
+    "compressed_size": 8257,
+    "bpp": 0.252,
+    "compression_ratio": 63.5,
+    "name": "I297_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3714,
+    "psnr": 93.59,
+    "compressed_size": 29785,
+    "bpp": 0.909,
+    "compression_ratio": 17.6,
+    "name": "I298_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.866,
+    "psnr": 87.18,
+    "compressed_size": 13000,
+    "bpp": 0.3967,
+    "compression_ratio": 40.33,
+    "name": "I298_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.4298,
+    "psnr": 83.4,
+    "compressed_size": 7847,
+    "bpp": 0.2395,
+    "compression_ratio": 66.81,
+    "name": "I298_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3517,
+    "psnr": 93.71,
+    "compressed_size": 28189,
+    "bpp": 0.8603,
+    "compression_ratio": 18.6,
+    "name": "I299_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.8011,
+    "psnr": 87.38,
+    "compressed_size": 12140,
+    "bpp": 0.3705,
+    "compression_ratio": 43.19,
+    "name": "I299_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.33,
+    "psnr": 83.6,
+    "compressed_size": 7225,
+    "bpp": 0.2205,
+    "compression_ratio": 72.57,
+    "name": "I299_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5056,
+    "psnr": 37.03,
+    "compressed_size": 78802,
+    "bpp": 2.4048,
+    "compression_ratio": 6.65,
+    "name": "I29_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5134,
+    "psnr": 37.03,
+    "compressed_size": 45291,
+    "bpp": 1.3822,
+    "compression_ratio": 11.58,
+    "name": "I29_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5309,
+    "psnr": 37.03,
+    "compressed_size": 32859,
+    "bpp": 1.0028,
+    "compression_ratio": 15.96,
+    "name": "I29_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91257,
+    "bpp": 2.7849,
+    "compression_ratio": 5.75,
+    "name": "I2_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5151,
+    "psnr": 37.03,
+    "compressed_size": 55132,
+    "bpp": 1.6825,
+    "compression_ratio": 9.51,
+    "name": "I2_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5369,
+    "psnr": 37.03,
+    "compressed_size": 40236,
+    "bpp": 1.2279,
+    "compression_ratio": 13.03,
+    "name": "I2_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.3292,
+    "psnr": 93.86,
+    "compressed_size": 27294,
+    "bpp": 0.8329,
+    "compression_ratio": 19.21,
+    "name": "I300_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.7492,
+    "psnr": 87.55,
+    "compressed_size": 11438,
+    "bpp": 0.3491,
+    "compression_ratio": 45.84,
+    "name": "I300_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.2114,
+    "psnr": 83.84,
+    "compressed_size": 6809,
+    "bpp": 0.2078,
+    "compression_ratio": 77.0,
+    "name": "I300_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.2975,
+    "psnr": 94.07,
+    "compressed_size": 25022,
+    "bpp": 0.7636,
+    "compression_ratio": 20.95,
+    "name": "I301_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.6419,
+    "psnr": 87.89,
+    "compressed_size": 10190,
+    "bpp": 0.311,
+    "compression_ratio": 51.45,
+    "name": "I301_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 4.0033,
+    "psnr": 84.28,
+    "compressed_size": 5931,
+    "bpp": 0.181,
+    "compression_ratio": 88.4,
+    "name": "I301_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 1.279,
+    "psnr": 94.19,
+    "compressed_size": 23840,
+    "bpp": 0.7275,
+    "compression_ratio": 21.99,
+    "name": "I302_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 2.5844,
+    "psnr": 88.08,
+    "compressed_size": 9477,
+    "bpp": 0.2892,
+    "compression_ratio": 55.32,
+    "name": "I302_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 3.9091,
+    "psnr": 84.49,
+    "compressed_size": 5587,
+    "bpp": 0.1705,
+    "compression_ratio": 93.84,
+    "name": "I302_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5055,
+    "psnr": 37.03,
+    "compressed_size": 75623,
+    "bpp": 2.3078,
+    "compression_ratio": 6.93,
+    "name": "I30_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5129,
+    "psnr": 37.03,
+    "compressed_size": 43548,
+    "bpp": 1.329,
+    "compression_ratio": 12.04,
+    "name": "I30_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5297,
+    "psnr": 37.03,
+    "compressed_size": 31759,
+    "bpp": 0.9692,
+    "compression_ratio": 16.51,
+    "name": "I30_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5054,
+    "psnr": 37.03,
+    "compressed_size": 69619,
+    "bpp": 2.1246,
+    "compression_ratio": 7.53,
+    "name": "I31_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5121,
+    "psnr": 37.03,
+    "compressed_size": 41008,
+    "bpp": 1.2515,
+    "compression_ratio": 12.79,
+    "name": "I31_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5275,
+    "psnr": 37.03,
+    "compressed_size": 29918,
+    "bpp": 0.913,
+    "compression_ratio": 17.52,
+    "name": "I31_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5052,
+    "psnr": 37.03,
+    "compressed_size": 60991,
+    "bpp": 1.8613,
+    "compression_ratio": 8.6,
+    "name": "I32_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.511,
+    "psnr": 37.03,
+    "compressed_size": 36200,
+    "bpp": 1.1047,
+    "compression_ratio": 14.48,
+    "name": "I32_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5244,
+    "psnr": 37.03,
+    "compressed_size": 26865,
+    "bpp": 0.8199,
+    "compression_ratio": 19.52,
+    "name": "I32_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5049,
+    "psnr": 37.03,
+    "compressed_size": 50665,
+    "bpp": 1.5462,
+    "compression_ratio": 10.35,
+    "name": "I33_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5097,
+    "psnr": 37.03,
+    "compressed_size": 31465,
+    "bpp": 0.9602,
+    "compression_ratio": 16.66,
+    "name": "I33_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5208,
+    "psnr": 37.03,
+    "compressed_size": 23908,
+    "bpp": 0.7296,
+    "compression_ratio": 21.93,
+    "name": "I33_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5048,
+    "psnr": 37.03,
+    "compressed_size": 44163,
+    "bpp": 1.3477,
+    "compression_ratio": 11.87,
+    "name": "I34_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5089,
+    "psnr": 37.03,
+    "compressed_size": 27947,
+    "bpp": 0.8529,
+    "compression_ratio": 18.76,
+    "name": "I34_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5184,
+    "psnr": 37.03,
+    "compressed_size": 21544,
+    "bpp": 0.6575,
+    "compression_ratio": 24.34,
+    "name": "I34_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5048,
+    "psnr": 37.03,
+    "compressed_size": 40955,
+    "bpp": 1.2498,
+    "compression_ratio": 12.8,
+    "name": "I35_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5083,
+    "psnr": 37.03,
+    "compressed_size": 25944,
+    "bpp": 0.7917,
+    "compression_ratio": 20.21,
+    "name": "I35_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5169,
+    "psnr": 37.03,
+    "compressed_size": 20161,
+    "bpp": 0.6153,
+    "compression_ratio": 26.01,
+    "name": "I35_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99294,
+    "bpp": 3.0302,
+    "compression_ratio": 5.28,
+    "name": "I36_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5164,
+    "psnr": 37.03,
+    "compressed_size": 59262,
+    "bpp": 1.8085,
+    "compression_ratio": 8.85,
+    "name": "I36_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5401,
+    "psnr": 37.03,
+    "compressed_size": 42425,
+    "bpp": 1.2947,
+    "compression_ratio": 12.36,
+    "name": "I36_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100394,
+    "bpp": 3.0638,
+    "compression_ratio": 5.22,
+    "name": "I37_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5166,
+    "psnr": 37.03,
+    "compressed_size": 59818,
+    "bpp": 1.8255,
+    "compression_ratio": 8.76,
+    "name": "I37_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5402,
+    "psnr": 37.03,
+    "compressed_size": 42744,
+    "bpp": 1.3044,
+    "compression_ratio": 12.27,
+    "name": "I37_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 97904,
+    "bpp": 2.9878,
+    "compression_ratio": 5.36,
+    "name": "I38_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5162,
+    "psnr": 37.03,
+    "compressed_size": 58017,
+    "bpp": 1.7705,
+    "compression_ratio": 9.04,
+    "name": "I38_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5395,
+    "psnr": 37.03,
+    "compressed_size": 41615,
+    "bpp": 1.27,
+    "compression_ratio": 12.6,
+    "name": "I38_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 97647,
+    "bpp": 2.9799,
+    "compression_ratio": 5.37,
+    "name": "I39_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5161,
+    "psnr": 37.03,
+    "compressed_size": 58004,
+    "bpp": 1.7701,
+    "compression_ratio": 9.04,
+    "name": "I39_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5396,
+    "psnr": 37.03,
+    "compressed_size": 41624,
+    "bpp": 1.2703,
+    "compression_ratio": 12.6,
+    "name": "I39_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 89506,
+    "bpp": 2.7315,
+    "compression_ratio": 5.86,
+    "name": "I3_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5148,
+    "psnr": 37.03,
+    "compressed_size": 53889,
+    "bpp": 1.6446,
+    "compression_ratio": 9.73,
+    "name": "I3_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5362,
+    "psnr": 37.03,
+    "compressed_size": 39448,
+    "bpp": 1.2039,
+    "compression_ratio": 13.29,
+    "name": "I3_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101386,
+    "bpp": 3.0941,
+    "compression_ratio": 5.17,
+    "name": "I40_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5167,
+    "psnr": 37.03,
+    "compressed_size": 60755,
+    "bpp": 1.8541,
+    "compression_ratio": 8.63,
+    "name": "I40_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5411,
+    "psnr": 37.03,
+    "compressed_size": 43718,
+    "bpp": 1.3342,
+    "compression_ratio": 11.99,
+    "name": "I40_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 106509,
+    "bpp": 3.2504,
+    "compression_ratio": 4.92,
+    "name": "I41_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 64349,
+    "bpp": 1.9638,
+    "compression_ratio": 8.15,
+    "name": "I41_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5436,
+    "psnr": 37.03,
+    "compressed_size": 46308,
+    "bpp": 1.4132,
+    "compression_ratio": 11.32,
+    "name": "I41_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5061,
+    "psnr": 37.03,
+    "compressed_size": 109040,
+    "bpp": 3.3276,
+    "compression_ratio": 4.81,
+    "name": "I42_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5177,
+    "psnr": 37.03,
+    "compressed_size": 66478,
+    "bpp": 2.0287,
+    "compression_ratio": 7.89,
+    "name": "I42_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5449,
+    "psnr": 37.03,
+    "compressed_size": 47823,
+    "bpp": 1.4594,
+    "compression_ratio": 10.96,
+    "name": "I42_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5061,
+    "psnr": 37.03,
+    "compressed_size": 111135,
+    "bpp": 3.3916,
+    "compression_ratio": 4.72,
+    "name": "I43_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.518,
+    "psnr": 37.03,
+    "compressed_size": 67611,
+    "bpp": 2.0633,
+    "compression_ratio": 7.75,
+    "name": "I43_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5454,
+    "psnr": 37.03,
+    "compressed_size": 48357,
+    "bpp": 1.4757,
+    "compression_ratio": 10.84,
+    "name": "I43_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 113879,
+    "bpp": 3.4753,
+    "compression_ratio": 4.6,
+    "name": "I44_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5184,
+    "psnr": 37.03,
+    "compressed_size": 69642,
+    "bpp": 2.1253,
+    "compression_ratio": 7.53,
+    "name": "I44_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5469,
+    "psnr": 37.03,
+    "compressed_size": 49994,
+    "bpp": 1.5257,
+    "compression_ratio": 10.49,
+    "name": "I44_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 117736,
+    "bpp": 3.593,
+    "compression_ratio": 4.45,
+    "name": "I45_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5189,
+    "psnr": 37.03,
+    "compressed_size": 72368,
+    "bpp": 2.2085,
+    "compression_ratio": 7.24,
+    "name": "I45_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5484,
+    "psnr": 37.03,
+    "compressed_size": 51350,
+    "bpp": 1.5671,
+    "compression_ratio": 10.21,
+    "name": "I45_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 120022,
+    "bpp": 3.6628,
+    "compression_ratio": 4.37,
+    "name": "I46_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5193,
+    "psnr": 37.03,
+    "compressed_size": 74028,
+    "bpp": 2.2592,
+    "compression_ratio": 7.08,
+    "name": "I46_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5495,
+    "psnr": 37.03,
+    "compressed_size": 52888,
+    "bpp": 1.614,
+    "compression_ratio": 9.91,
+    "name": "I46_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 121018,
+    "bpp": 3.6932,
+    "compression_ratio": 4.33,
+    "name": "I47_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5194,
+    "psnr": 37.03,
+    "compressed_size": 74803,
+    "bpp": 2.2828,
+    "compression_ratio": 7.01,
+    "name": "I47_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5498,
+    "psnr": 37.03,
+    "compressed_size": 53135,
+    "bpp": 1.6216,
+    "compression_ratio": 9.87,
+    "name": "I47_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 117451,
+    "bpp": 3.5843,
+    "compression_ratio": 4.46,
+    "name": "I48_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5189,
+    "psnr": 37.03,
+    "compressed_size": 72426,
+    "bpp": 2.2103,
+    "compression_ratio": 7.24,
+    "name": "I48_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5483,
+    "psnr": 37.03,
+    "compressed_size": 51370,
+    "bpp": 1.5677,
+    "compression_ratio": 10.21,
+    "name": "I48_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 115371,
+    "bpp": 3.5208,
+    "compression_ratio": 4.54,
+    "name": "I49_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5187,
+    "psnr": 37.03,
+    "compressed_size": 70490,
+    "bpp": 2.1512,
+    "compression_ratio": 7.44,
+    "name": "I49_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5472,
+    "psnr": 37.03,
+    "compressed_size": 49806,
+    "bpp": 1.52,
+    "compression_ratio": 10.53,
+    "name": "I49_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 93141,
+    "bpp": 2.8424,
+    "compression_ratio": 5.63,
+    "name": "I4_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5154,
+    "psnr": 37.03,
+    "compressed_size": 56547,
+    "bpp": 1.7257,
+    "compression_ratio": 9.27,
+    "name": "I4_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.538,
+    "psnr": 37.03,
+    "compressed_size": 41433,
+    "bpp": 1.2644,
+    "compression_ratio": 12.65,
+    "name": "I4_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 114708,
+    "bpp": 3.5006,
+    "compression_ratio": 4.57,
+    "name": "I50_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5186,
+    "psnr": 37.03,
+    "compressed_size": 70028,
+    "bpp": 2.1371,
+    "compression_ratio": 7.49,
+    "name": "I50_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.547,
+    "psnr": 37.03,
+    "compressed_size": 49352,
+    "bpp": 1.5061,
+    "compression_ratio": 10.62,
+    "name": "I50_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 113038,
+    "bpp": 3.4496,
+    "compression_ratio": 4.64,
+    "name": "I51_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5186,
+    "psnr": 37.03,
+    "compressed_size": 68458,
+    "bpp": 2.0892,
+    "compression_ratio": 7.66,
+    "name": "I51_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5463,
+    "psnr": 37.03,
+    "compressed_size": 47943,
+    "bpp": 1.4631,
+    "compression_ratio": 10.94,
+    "name": "I51_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5062,
+    "psnr": 37.03,
+    "compressed_size": 111023,
+    "bpp": 3.3882,
+    "compression_ratio": 4.72,
+    "name": "I52_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5183,
+    "psnr": 37.03,
+    "compressed_size": 66930,
+    "bpp": 2.0425,
+    "compression_ratio": 7.83,
+    "name": "I52_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5452,
+    "psnr": 37.03,
+    "compressed_size": 46580,
+    "bpp": 1.4215,
+    "compression_ratio": 11.26,
+    "name": "I52_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5061,
+    "psnr": 37.03,
+    "compressed_size": 108542,
+    "bpp": 3.3124,
+    "compression_ratio": 4.83,
+    "name": "I53_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5181,
+    "psnr": 37.03,
+    "compressed_size": 64598,
+    "bpp": 1.9714,
+    "compression_ratio": 8.12,
+    "name": "I53_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5441,
+    "psnr": 37.03,
+    "compressed_size": 44776,
+    "bpp": 1.3665,
+    "compression_ratio": 11.71,
+    "name": "I53_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5061,
+    "psnr": 37.03,
+    "compressed_size": 106850,
+    "bpp": 3.2608,
+    "compression_ratio": 4.91,
+    "name": "I54_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5178,
+    "psnr": 37.03,
+    "compressed_size": 63281,
+    "bpp": 1.9312,
+    "compression_ratio": 8.29,
+    "name": "I54_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5433,
+    "psnr": 37.03,
+    "compressed_size": 43637,
+    "bpp": 1.3317,
+    "compression_ratio": 12.01,
+    "name": "I54_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5061,
+    "psnr": 37.03,
+    "compressed_size": 104382,
+    "bpp": 3.1855,
+    "compression_ratio": 5.02,
+    "name": "I55_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5177,
+    "psnr": 37.03,
+    "compressed_size": 61695,
+    "bpp": 1.8828,
+    "compression_ratio": 8.5,
+    "name": "I55_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5422,
+    "psnr": 37.03,
+    "compressed_size": 42303,
+    "bpp": 1.291,
+    "compression_ratio": 12.39,
+    "name": "I55_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101320,
+    "bpp": 3.092,
+    "compression_ratio": 5.17,
+    "name": "I56_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 59087,
+    "bpp": 1.8032,
+    "compression_ratio": 8.87,
+    "name": "I56_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5407,
+    "psnr": 37.03,
+    "compressed_size": 40438,
+    "bpp": 1.2341,
+    "compression_ratio": 12.97,
+    "name": "I56_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99087,
+    "bpp": 3.0239,
+    "compression_ratio": 5.29,
+    "name": "I57_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.517,
+    "psnr": 37.03,
+    "compressed_size": 57395,
+    "bpp": 1.7516,
+    "compression_ratio": 9.13,
+    "name": "I57_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5398,
+    "psnr": 37.03,
+    "compressed_size": 39289,
+    "bpp": 1.199,
+    "compression_ratio": 13.34,
+    "name": "I57_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99576,
+    "bpp": 3.0388,
+    "compression_ratio": 5.27,
+    "name": "I58_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5171,
+    "psnr": 37.03,
+    "compressed_size": 57501,
+    "bpp": 1.7548,
+    "compression_ratio": 9.12,
+    "name": "I58_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.54,
+    "psnr": 37.03,
+    "compressed_size": 39341,
+    "bpp": 1.2006,
+    "compression_ratio": 13.33,
+    "name": "I58_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100757,
+    "bpp": 3.0749,
+    "compression_ratio": 5.2,
+    "name": "I59_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 58382,
+    "bpp": 1.7817,
+    "compression_ratio": 8.98,
+    "name": "I59_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5407,
+    "psnr": 37.03,
+    "compressed_size": 39802,
+    "bpp": 1.2147,
+    "compression_ratio": 13.17,
+    "name": "I59_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 99623,
+    "bpp": 3.0403,
+    "compression_ratio": 5.26,
+    "name": "I5_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5162,
+    "psnr": 37.03,
+    "compressed_size": 61115,
+    "bpp": 1.8651,
+    "compression_ratio": 8.58,
+    "name": "I5_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5409,
+    "psnr": 37.03,
+    "compressed_size": 44677,
+    "bpp": 1.3634,
+    "compression_ratio": 11.74,
+    "name": "I5_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101258,
+    "bpp": 3.0901,
+    "compression_ratio": 5.18,
+    "name": "I60_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 58576,
+    "bpp": 1.7876,
+    "compression_ratio": 8.95,
+    "name": "I60_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5406,
+    "psnr": 37.03,
+    "compressed_size": 39777,
+    "bpp": 1.2139,
+    "compression_ratio": 13.18,
+    "name": "I60_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101284,
+    "bpp": 3.0909,
+    "compression_ratio": 5.18,
+    "name": "I61_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 58588,
+    "bpp": 1.788,
+    "compression_ratio": 8.95,
+    "name": "I61_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5406,
+    "psnr": 37.03,
+    "compressed_size": 39736,
+    "bpp": 1.2126,
+    "compression_ratio": 13.19,
+    "name": "I61_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101139,
+    "bpp": 3.0865,
+    "compression_ratio": 5.18,
+    "name": "I62_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5174,
+    "psnr": 37.03,
+    "compressed_size": 58596,
+    "bpp": 1.7882,
+    "compression_ratio": 8.95,
+    "name": "I62_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5408,
+    "psnr": 37.03,
+    "compressed_size": 39699,
+    "bpp": 1.2115,
+    "compression_ratio": 13.21,
+    "name": "I62_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100613,
+    "bpp": 3.0705,
+    "compression_ratio": 5.21,
+    "name": "I63_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 58489,
+    "bpp": 1.7849,
+    "compression_ratio": 8.96,
+    "name": "I63_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5403,
+    "psnr": 37.03,
+    "compressed_size": 39688,
+    "bpp": 1.2112,
+    "compression_ratio": 13.21,
+    "name": "I63_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 101153,
+    "bpp": 3.0869,
+    "compression_ratio": 5.18,
+    "name": "I64_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5173,
+    "psnr": 37.03,
+    "compressed_size": 58707,
+    "bpp": 1.7916,
+    "compression_ratio": 8.93,
+    "name": "I64_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5404,
+    "psnr": 37.03,
+    "compressed_size": 39765,
+    "bpp": 1.2135,
+    "compression_ratio": 13.18,
+    "name": "I64_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100591,
+    "bpp": 3.0698,
+    "compression_ratio": 5.21,
+    "name": "I65_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5172,
+    "psnr": 37.03,
+    "compressed_size": 58104,
+    "bpp": 1.7732,
+    "compression_ratio": 9.02,
+    "name": "I65_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5399,
+    "psnr": 37.03,
+    "compressed_size": 39438,
+    "bpp": 1.2036,
+    "compression_ratio": 13.29,
+    "name": "I65_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99999,
+    "bpp": 3.0517,
+    "compression_ratio": 5.24,
+    "name": "I66_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5172,
+    "psnr": 37.03,
+    "compressed_size": 57552,
+    "bpp": 1.7563,
+    "compression_ratio": 9.11,
+    "name": "I66_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5397,
+    "psnr": 37.03,
+    "compressed_size": 39045,
+    "bpp": 1.1916,
+    "compression_ratio": 13.43,
+    "name": "I66_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100403,
+    "bpp": 3.0641,
+    "compression_ratio": 5.22,
+    "name": "I67_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5172,
+    "psnr": 37.03,
+    "compressed_size": 58167,
+    "bpp": 1.7751,
+    "compression_ratio": 9.01,
+    "name": "I67_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.54,
+    "psnr": 37.03,
+    "compressed_size": 38989,
+    "bpp": 1.1898,
+    "compression_ratio": 13.45,
+    "name": "I67_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 100003,
+    "bpp": 3.0518,
+    "compression_ratio": 5.24,
+    "name": "I68_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5171,
+    "psnr": 37.03,
+    "compressed_size": 57803,
+    "bpp": 1.764,
+    "compression_ratio": 9.07,
+    "name": "I68_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5397,
+    "psnr": 37.03,
+    "compressed_size": 38900,
+    "bpp": 1.1871,
+    "compression_ratio": 13.48,
+    "name": "I68_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99801,
+    "bpp": 3.0457,
+    "compression_ratio": 5.25,
+    "name": "I69_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5171,
+    "psnr": 37.03,
+    "compressed_size": 57441,
+    "bpp": 1.753,
+    "compression_ratio": 9.13,
+    "name": "I69_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5394,
+    "psnr": 37.03,
+    "compressed_size": 38874,
+    "bpp": 1.1863,
+    "compression_ratio": 13.49,
+    "name": "I69_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 104499,
+    "bpp": 3.1891,
+    "compression_ratio": 5.02,
+    "name": "I6_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5169,
+    "psnr": 37.03,
+    "compressed_size": 64181,
+    "bpp": 1.9586,
+    "compression_ratio": 8.17,
+    "name": "I6_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5428,
+    "psnr": 37.03,
+    "compressed_size": 46610,
+    "bpp": 1.4224,
+    "compression_ratio": 11.25,
+    "name": "I6_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99368,
+    "bpp": 3.0325,
+    "compression_ratio": 5.28,
+    "name": "I70_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5171,
+    "psnr": 37.03,
+    "compressed_size": 57209,
+    "bpp": 1.7459,
+    "compression_ratio": 9.16,
+    "name": "I70_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5393,
+    "psnr": 37.03,
+    "compressed_size": 38995,
+    "bpp": 1.19,
+    "compression_ratio": 13.45,
+    "name": "I70_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 99132,
+    "bpp": 3.0253,
+    "compression_ratio": 5.29,
+    "name": "I71_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.517,
+    "psnr": 37.03,
+    "compressed_size": 57151,
+    "bpp": 1.7441,
+    "compression_ratio": 9.17,
+    "name": "I71_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5396,
+    "psnr": 37.03,
+    "compressed_size": 38613,
+    "bpp": 1.1784,
+    "compression_ratio": 13.58,
+    "name": "I71_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 98700,
+    "bpp": 3.0121,
+    "compression_ratio": 5.31,
+    "name": "I72_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.517,
+    "psnr": 37.03,
+    "compressed_size": 56694,
+    "bpp": 1.7302,
+    "compression_ratio": 9.25,
+    "name": "I72_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5394,
+    "psnr": 37.03,
+    "compressed_size": 38633,
+    "bpp": 1.179,
+    "compression_ratio": 13.57,
+    "name": "I72_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 98229,
+    "bpp": 2.9977,
+    "compression_ratio": 5.34,
+    "name": "I73_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5169,
+    "psnr": 37.03,
+    "compressed_size": 56463,
+    "bpp": 1.7231,
+    "compression_ratio": 9.29,
+    "name": "I73_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5389,
+    "psnr": 37.03,
+    "compressed_size": 38291,
+    "bpp": 1.1685,
+    "compression_ratio": 13.69,
+    "name": "I73_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 98038,
+    "bpp": 2.9919,
+    "compression_ratio": 5.35,
+    "name": "I74_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5169,
+    "psnr": 37.03,
+    "compressed_size": 56323,
+    "bpp": 1.7188,
+    "compression_ratio": 9.31,
+    "name": "I74_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5387,
+    "psnr": 37.03,
+    "compressed_size": 38346,
+    "bpp": 1.1702,
+    "compression_ratio": 13.67,
+    "name": "I74_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 97357,
+    "bpp": 2.9711,
+    "compression_ratio": 5.39,
+    "name": "I75_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5167,
+    "psnr": 37.03,
+    "compressed_size": 55929,
+    "bpp": 1.7068,
+    "compression_ratio": 9.37,
+    "name": "I75_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5383,
+    "psnr": 37.03,
+    "compressed_size": 38344,
+    "bpp": 1.1702,
+    "compression_ratio": 13.67,
+    "name": "I75_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 96306,
+    "bpp": 2.939,
+    "compression_ratio": 5.44,
+    "name": "I76_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5165,
+    "psnr": 37.03,
+    "compressed_size": 55113,
+    "bpp": 1.6819,
+    "compression_ratio": 9.51,
+    "name": "I76_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5375,
+    "psnr": 37.03,
+    "compressed_size": 37664,
+    "bpp": 1.1494,
+    "compression_ratio": 13.92,
+    "name": "I76_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 95676,
+    "bpp": 2.9198,
+    "compression_ratio": 5.48,
+    "name": "I77_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5164,
+    "psnr": 37.03,
+    "compressed_size": 54640,
+    "bpp": 1.6675,
+    "compression_ratio": 9.6,
+    "name": "I77_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5375,
+    "psnr": 37.03,
+    "compressed_size": 37326,
+    "bpp": 1.1391,
+    "compression_ratio": 14.05,
+    "name": "I77_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 95339,
+    "bpp": 2.9095,
+    "compression_ratio": 5.5,
+    "name": "I78_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5163,
+    "psnr": 37.03,
+    "compressed_size": 54433,
+    "bpp": 1.6612,
+    "compression_ratio": 9.63,
+    "name": "I78_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5371,
+    "psnr": 37.03,
+    "compressed_size": 37263,
+    "bpp": 1.1372,
+    "compression_ratio": 14.07,
+    "name": "I78_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 95001,
+    "bpp": 2.8992,
+    "compression_ratio": 5.52,
+    "name": "I79_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5162,
+    "psnr": 37.03,
+    "compressed_size": 54369,
+    "bpp": 1.6592,
+    "compression_ratio": 9.64,
+    "name": "I79_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5371,
+    "psnr": 37.03,
+    "compressed_size": 37468,
+    "bpp": 1.1434,
+    "compression_ratio": 13.99,
+    "name": "I79_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 108640,
+    "bpp": 3.3154,
+    "compression_ratio": 4.83,
+    "name": "I7_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5174,
+    "psnr": 37.03,
+    "compressed_size": 66476,
+    "bpp": 2.0287,
+    "compression_ratio": 7.89,
+    "name": "I7_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5441,
+    "psnr": 37.03,
+    "compressed_size": 48209,
+    "bpp": 1.4712,
+    "compression_ratio": 10.88,
+    "name": "I7_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 94484,
+    "bpp": 2.8834,
+    "compression_ratio": 5.55,
+    "name": "I80_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5161,
+    "psnr": 37.03,
+    "compressed_size": 54107,
+    "bpp": 1.6512,
+    "compression_ratio": 9.69,
+    "name": "I80_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5368,
+    "psnr": 37.03,
+    "compressed_size": 37446,
+    "bpp": 1.1428,
+    "compression_ratio": 14.0,
+    "name": "I80_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 93695,
+    "bpp": 2.8593,
+    "compression_ratio": 5.6,
+    "name": "I81_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5159,
+    "psnr": 37.03,
+    "compressed_size": 53914,
+    "bpp": 1.6453,
+    "compression_ratio": 9.72,
+    "name": "I81_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5364,
+    "psnr": 37.03,
+    "compressed_size": 37382,
+    "bpp": 1.1408,
+    "compression_ratio": 14.03,
+    "name": "I81_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 93788,
+    "bpp": 2.8622,
+    "compression_ratio": 5.59,
+    "name": "I82_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5159,
+    "psnr": 37.03,
+    "compressed_size": 53818,
+    "bpp": 1.6424,
+    "compression_ratio": 9.74,
+    "name": "I82_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5366,
+    "psnr": 37.03,
+    "compressed_size": 37482,
+    "bpp": 1.1439,
+    "compression_ratio": 13.99,
+    "name": "I82_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 93342,
+    "bpp": 2.8486,
+    "compression_ratio": 5.62,
+    "name": "I83_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5158,
+    "psnr": 37.03,
+    "compressed_size": 53842,
+    "bpp": 1.6431,
+    "compression_ratio": 9.74,
+    "name": "I83_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5363,
+    "psnr": 37.03,
+    "compressed_size": 37516,
+    "bpp": 1.1449,
+    "compression_ratio": 13.98,
+    "name": "I83_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5059,
+    "psnr": 37.03,
+    "compressed_size": 92946,
+    "bpp": 2.8365,
+    "compression_ratio": 5.64,
+    "name": "I84_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5156,
+    "psnr": 37.03,
+    "compressed_size": 53628,
+    "bpp": 1.6366,
+    "compression_ratio": 9.78,
+    "name": "I84_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.536,
+    "psnr": 37.03,
+    "compressed_size": 37702,
+    "bpp": 1.1506,
+    "compression_ratio": 13.91,
+    "name": "I84_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 92089,
+    "bpp": 2.8103,
+    "compression_ratio": 5.69,
+    "name": "I85_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5155,
+    "psnr": 37.03,
+    "compressed_size": 53307,
+    "bpp": 1.6268,
+    "compression_ratio": 9.84,
+    "name": "I85_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5358,
+    "psnr": 37.03,
+    "compressed_size": 37346,
+    "bpp": 1.1397,
+    "compression_ratio": 14.04,
+    "name": "I85_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 91495,
+    "bpp": 2.7922,
+    "compression_ratio": 5.73,
+    "name": "I86_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5154,
+    "psnr": 37.03,
+    "compressed_size": 53230,
+    "bpp": 1.6245,
+    "compression_ratio": 9.85,
+    "name": "I86_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5359,
+    "psnr": 37.03,
+    "compressed_size": 37299,
+    "bpp": 1.1383,
+    "compression_ratio": 14.06,
+    "name": "I86_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 90333,
+    "bpp": 2.7567,
+    "compression_ratio": 5.8,
+    "name": "I87_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5151,
+    "psnr": 37.03,
+    "compressed_size": 52437,
+    "bpp": 1.6003,
+    "compression_ratio": 10.0,
+    "name": "I87_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5354,
+    "psnr": 37.03,
+    "compressed_size": 37244,
+    "bpp": 1.1366,
+    "compression_ratio": 14.08,
+    "name": "I87_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5058,
+    "psnr": 37.03,
+    "compressed_size": 88576,
+    "bpp": 2.7031,
+    "compression_ratio": 5.92,
+    "name": "I88_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5149,
+    "psnr": 37.03,
+    "compressed_size": 51504,
+    "bpp": 1.5718,
+    "compression_ratio": 10.18,
+    "name": "I88_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5345,
+    "psnr": 37.03,
+    "compressed_size": 36601,
+    "bpp": 1.117,
+    "compression_ratio": 14.32,
+    "name": "I88_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 87046,
+    "bpp": 2.6564,
+    "compression_ratio": 6.02,
+    "name": "I89_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5147,
+    "psnr": 37.03,
+    "compressed_size": 50606,
+    "bpp": 1.5444,
+    "compression_ratio": 10.36,
+    "name": "I89_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5341,
+    "psnr": 37.03,
+    "compressed_size": 36111,
+    "bpp": 1.102,
+    "compression_ratio": 14.52,
+    "name": "I89_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 106789,
+    "bpp": 3.2589,
+    "compression_ratio": 4.91,
+    "name": "I8_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5172,
+    "psnr": 37.03,
+    "compressed_size": 65560,
+    "bpp": 2.0007,
+    "compression_ratio": 8.0,
+    "name": "I8_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5437,
+    "psnr": 37.03,
+    "compressed_size": 47245,
+    "bpp": 1.4418,
+    "compression_ratio": 11.1,
+    "name": "I8_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 85918,
+    "bpp": 2.622,
+    "compression_ratio": 6.1,
+    "name": "I90_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5146,
+    "psnr": 37.03,
+    "compressed_size": 49658,
+    "bpp": 1.5154,
+    "compression_ratio": 10.56,
+    "name": "I90_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5336,
+    "psnr": 37.03,
+    "compressed_size": 35462,
+    "bpp": 1.0822,
+    "compression_ratio": 14.78,
+    "name": "I90_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5057,
+    "psnr": 37.03,
+    "compressed_size": 84632,
+    "bpp": 2.5828,
+    "compression_ratio": 6.19,
+    "name": "I91_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5144,
+    "psnr": 37.03,
+    "compressed_size": 48724,
+    "bpp": 1.4869,
+    "compression_ratio": 10.76,
+    "name": "I91_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5329,
+    "psnr": 37.03,
+    "compressed_size": 34728,
+    "bpp": 1.0598,
+    "compression_ratio": 15.1,
+    "name": "I91_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5056,
+    "psnr": 37.03,
+    "compressed_size": 82220,
+    "bpp": 2.5092,
+    "compression_ratio": 6.38,
+    "name": "I92_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.514,
+    "psnr": 37.03,
+    "compressed_size": 47520,
+    "bpp": 1.4502,
+    "compression_ratio": 11.03,
+    "name": "I92_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.532,
+    "psnr": 37.03,
+    "compressed_size": 33986,
+    "bpp": 1.0372,
+    "compression_ratio": 15.43,
+    "name": "I92_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5056,
+    "psnr": 37.03,
+    "compressed_size": 79111,
+    "bpp": 2.4143,
+    "compression_ratio": 6.63,
+    "name": "I93_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5135,
+    "psnr": 37.03,
+    "compressed_size": 45933,
+    "bpp": 1.4018,
+    "compression_ratio": 11.41,
+    "name": "I93_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5311,
+    "psnr": 37.03,
+    "compressed_size": 33053,
+    "bpp": 1.0087,
+    "compression_ratio": 15.86,
+    "name": "I93_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5055,
+    "psnr": 37.03,
+    "compressed_size": 77121,
+    "bpp": 2.3535,
+    "compression_ratio": 6.8,
+    "name": "I94_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5133,
+    "psnr": 37.03,
+    "compressed_size": 44366,
+    "bpp": 1.3539,
+    "compression_ratio": 11.82,
+    "name": "I94_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.53,
+    "psnr": 37.03,
+    "compressed_size": 31817,
+    "bpp": 0.971,
+    "compression_ratio": 16.48,
+    "name": "I94_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5055,
+    "psnr": 37.03,
+    "compressed_size": 73017,
+    "bpp": 2.2283,
+    "compression_ratio": 7.18,
+    "name": "I95_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5128,
+    "psnr": 37.03,
+    "compressed_size": 41634,
+    "bpp": 1.2706,
+    "compression_ratio": 12.59,
+    "name": "I95_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5282,
+    "psnr": 37.03,
+    "compressed_size": 29945,
+    "bpp": 0.9138,
+    "compression_ratio": 17.51,
+    "name": "I95_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5054,
+    "psnr": 37.03,
+    "compressed_size": 67094,
+    "bpp": 2.0475,
+    "compression_ratio": 7.81,
+    "name": "I96_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5118,
+    "psnr": 37.03,
+    "compressed_size": 38183,
+    "bpp": 1.1653,
+    "compression_ratio": 13.73,
+    "name": "I96_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5259,
+    "psnr": 37.03,
+    "compressed_size": 27886,
+    "bpp": 0.851,
+    "compression_ratio": 18.8,
+    "name": "I96_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5053,
+    "psnr": 37.03,
+    "compressed_size": 61523,
+    "bpp": 1.8775,
+    "compression_ratio": 8.52,
+    "name": "I97_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.511,
+    "psnr": 37.03,
+    "compressed_size": 35063,
+    "bpp": 1.07,
+    "compression_ratio": 14.95,
+    "name": "I97_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5238,
+    "psnr": 37.03,
+    "compressed_size": 26142,
+    "bpp": 0.7978,
+    "compression_ratio": 20.06,
+    "name": "I97_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5052,
+    "psnr": 37.03,
+    "compressed_size": 57262,
+    "bpp": 1.7475,
+    "compression_ratio": 9.16,
+    "name": "I98_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5105,
+    "psnr": 37.03,
+    "compressed_size": 32486,
+    "bpp": 0.9914,
+    "compression_ratio": 16.14,
+    "name": "I98_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.522,
+    "psnr": 37.03,
+    "compressed_size": 24128,
+    "bpp": 0.7363,
+    "compression_ratio": 21.73,
+    "name": "I98_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5052,
+    "psnr": 37.03,
+    "compressed_size": 53699,
+    "bpp": 1.6388,
+    "compression_ratio": 9.76,
+    "name": "I99_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.51,
+    "psnr": 37.03,
+    "compressed_size": 30373,
+    "bpp": 0.9269,
+    "compression_ratio": 17.26,
+    "name": "I99_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5204,
+    "psnr": 37.03,
+    "compressed_size": 22652,
+    "bpp": 0.6913,
+    "compression_ratio": 23.15,
+    "name": "I99_q60_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.506,
+    "psnr": 37.03,
+    "compressed_size": 103711,
+    "bpp": 3.165,
+    "compression_ratio": 5.06,
+    "name": "I9_q10_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5168,
+    "psnr": 37.03,
+    "compressed_size": 62836,
+    "bpp": 1.9176,
+    "compression_ratio": 8.34,
+    "name": "I9_q30_rec"
+  },
+  {
+    "bitdepth": 16,
+    "rmse": 922.5418,
+    "psnr": 37.03,
+    "compressed_size": 45233,
+    "bpp": 1.3804,
+    "compression_ratio": 11.59,
+    "name": "I9_q60_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 1.8379,
+    "psnr": 42.84,
+    "compressed_size": 45226,
+    "bpp": 1.5202,
+    "compression_ratio": 5.26,
+    "name": "preview_from_png_q10_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 3.9476,
+    "psnr": 36.2,
+    "compressed_size": 21007,
+    "bpp": 0.7061,
+    "compression_ratio": 11.33,
+    "name": "preview_from_png_q30_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 6.4674,
+    "psnr": 31.92,
+    "compressed_size": 11864,
+    "bpp": 0.3988,
+    "compression_ratio": 20.06,
+    "name": "preview_from_png_q60_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 1.8379,
+    "psnr": 42.84,
+    "compressed_size": 45226,
+    "bpp": 1.5202,
+    "compression_ratio": 5.26,
+    "name": "Skull_2_NAME^NONE_Volume_0_q10_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 3.9476,
+    "psnr": 36.2,
+    "compressed_size": 21007,
+    "bpp": 0.7061,
+    "compression_ratio": 11.33,
+    "name": "Skull_2_NAME^NONE_Volume_0_q30_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 6.4674,
+    "psnr": 31.92,
+    "compressed_size": 11864,
+    "bpp": 0.3988,
+    "compression_ratio": 20.06,
+    "name": "Skull_2_NAME^NONE_Volume_0_q60_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 1.5078,
+    "psnr": 44.56,
+    "compressed_size": 46630,
+    "bpp": 1.0848,
+    "compression_ratio": 7.37,
+    "name": "Skull_2_NAME^NONE_Volume_1_q10_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 3.3022,
+    "psnr": 37.75,
+    "compressed_size": 19460,
+    "bpp": 0.4527,
+    "compression_ratio": 17.67,
+    "name": "Skull_2_NAME^NONE_Volume_1_q30_rec"
+  },
+  {
+    "bitdepth": 8,
+    "rmse": 5.4182,
+    "psnr": 33.45,
+    "compressed_size": 10067,
+    "bpp": 0.2342,
+    "compression_ratio": 34.16,
+    "name": "Skull_2_NAME^NONE_Volume_1_q60_rec"
+  }
+]
